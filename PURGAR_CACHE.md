@@ -7,13 +7,13 @@ Sabrás que funcionó cuando la página muestre un mensaje que dice `"status": "
 
 ### Sabores (Flavors)
 
-* **Salsa:** [Purgar Caché de Salsa](https://purge.jsdelivr.net/gh/DarkJ-18/ringtones-data@main/salsa/ringtones.json)
-* **Rap:** [Purgar Caché de Rap](https://purge.jsdelivr.net/gh/DarkJ-18/ringtones-data@main/rap/ringtones.json)
-* **Reggaeton:** [Purgar Caché de Reggaeton](https://purge.jsdelivr.net/gh/DarkJ-18/ringtones-data@main/reggaeton/ringtones.json)
-* **Rock:** [Purgar Caché de Rock](https://purge.jsdelivr.net/gh/DarkJ-18/ringtones-data@main/rock/ringtones.json)
-* **Pop:** [Purgar Caché de Pop](https://purge.jsdelivr.net/gh/DarkJ-18/ringtones-data@main/pop/ringtones.json)
-* **Country:** [Purgar Caché de Country](https://purge.jsdelivr.net/gh/DarkJ-18/ringtones-data@main/country/ringtones.json)
-* **RyB (R&B):** [Purgar Caché de RyB](https://purge.jsdelivr.net/gh/DarkJ-18/ringtones-data@main/ryb/ringtones.json)
+* **Salsa:** [Purgar Caché de Salsa](https://purge.jsdelivr.net/gh/Ausuga3/ringtones-data@main/salsa/ringtones.json)
+* **Rap:** [Purgar Caché de Rap](https://purge.jsdelivr.net/gh/Ausuga3/ringtones-data@main/rap/ringtones.json)
+* **Reggaeton:** [Purgar Caché de Reggaeton](https://purge.jsdelivr.net/gh/Ausuga3/ringtones-data@main/reggaeton/ringtones.json)
+* **Rock:** [Purgar Caché de Rock](https://purge.jsdelivr.net/gh/Ausuga3/ringtones-data@main/rock/ringtones.json)
+* **Pop:** [Purgar Caché de Pop](https://purge.jsdelivr.net/gh/Ausuga3/ringtones-data@main/pop/ringtones.json)
+* **Country:** [Purgar Caché de Country](https://purge.jsdelivr.net/gh/Ausuga3/ringtones-data@main/country/ringtones.json)
+* **RyB (R&B):** [Purgar Caché de RyB](https://purge.jsdelivr.net/gh/Ausuga3/ringtones-data@main/ryb/ringtones.json)
 
 ---
 **Nota PRO:** Si en el futuro activas "GitHub Pages" como te sugerí anteriormente, ya no necesitarás usar estos links jamás, porque GitHub Pages limpia su caché automáticamente cada minuto al hacer `git push`.
