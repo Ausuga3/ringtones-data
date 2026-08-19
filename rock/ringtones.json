@@ -2266,5 +2266,40 @@
         "subtitle": "Måneskin",
         "audioPath": "audios/måneskin---zitti-e-buoni-2.mp3",
         "posterPath": "images/måneskin---zitti-e-buoni-2.jpg"
+    },
+    {
+        "id": "325",
+        "title": "Aerials",
+        "subtitle": "System Of A Down",
+        "audioPath": "audios/system-of-a-down-aerials.mp3",
+        "posterPath": "images/system_of_a_down.jpeg"
+    },
+    {
+        "id": "326",
+        "title": "B.Y.O.B.",
+        "subtitle": "System Of A Down",
+        "audioPath": "audios/system-of-a-down-b.y.o.b..mp3",
+        "posterPath": "images/system_of_a_down.jpeg"
+    },
+    {
+        "id": "327",
+        "title": "Lonely Day",
+        "subtitle": "System Of A Down",
+        "audioPath": "audios/system-of-a-down-lonely-day.mp3",
+        "posterPath": "images/system_of_a_down.jpeg"
+    },
+    {
+        "id": "328",
+        "title": "Sugar",
+        "subtitle": "System Of A Down",
+        "audioPath": "audios/system-of-a-down-sugar.mp3",
+        "posterPath": "images/system_of_a_down.jpeg"
+    },
+    {
+        "id": "329",
+        "title": "Question!",
+        "subtitle": "System Of A Down",
+        "audioPath": "audios/system-of-a-down-question.mp3",
+        "posterPath": "images/system_of_a_down.jpeg"
     }
 ]
