@@ -9,6 +9,7 @@ Sabrás que funcionó cuando la página muestre un mensaje que dice `"status": "
 
 
 * **Rock:** [Purgar Caché de Rock](https://purge.jsdelivr.net/gh/Ausuga3/ringtones-data@main/rock/ringtones.json)
+* **Hip Hop:** [Purgar Caché de Hip Hop](https://purge.jsdelivr.net/gh/Ausuga3/ringtones-data@main/hiphop/ringtones.json)
 
 ---
 **Nota PRO:** Si en el futuro activas "GitHub Pages" como te sugerí anteriormente, ya no necesitarás usar estos links jamás, porque GitHub Pages limpia su caché automáticamente cada minuto al hacer `git push`.

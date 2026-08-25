@@ -533,7 +533,8 @@ def run_script():
                 "COL_ARTIST": profile.col_artist,
                 "COL_TITLE": profile.col_title,
                 "COL_AUDIO": profile.col_audio,
-                "COL_ICON": profile.col_icon
+                "COL_ICON": profile.col_icon,
+                "FILENAME_FORMAT": getattr(profile, "filename_format", "artista_titulo")
             }
             
     # Para scripts que requieran input interactivo (como exportar_catalogo.py)

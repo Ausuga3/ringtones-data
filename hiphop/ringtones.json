@@ -1,0 +1,737 @@
+[
+    {
+        "id": "1",
+        "title": "All Eyez On Me",
+        "subtitle": "2Pac",
+        "audioPath": "audios/2pac---all-eyez-on-me.mp3",
+        "posterPath": "images/2pac---all-eyez-on-me.jpg"
+    },
+    {
+        "id": "2",
+        "title": "California Love feat",
+        "subtitle": "2Pac",
+        "audioPath": "audios/2pac---california-love-feat.mp3",
+        "posterPath": "images/2pac---california-love-feat.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Changes",
+        "subtitle": "2Pac",
+        "audioPath": "audios/2pac---changes.mp3",
+        "posterPath": "images/2pac---changes.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Hit 'Em Up",
+        "subtitle": "2Pac",
+        "audioPath": "audios/2pac---hit-'em-up.mp3",
+        "posterPath": "images/2pac---hit-'em-up.jpg"
+    },
+    {
+        "id": "5",
+        "title": "I Get Around",
+        "subtitle": "2Pac",
+        "audioPath": "audios/2pac---i-get-around.mp3",
+        "posterPath": "images/2pac---i-get-around.jpg"
+    },
+    {
+        "id": "6",
+        "title": "21 Questions",
+        "subtitle": "50 Cent",
+        "audioPath": "audios/50-cent---21-questions.mp3",
+        "posterPath": "images/50-cent---21-questions.jpg"
+    },
+    {
+        "id": "7",
+        "title": "Candy Shop",
+        "subtitle": "50 Cent",
+        "audioPath": "audios/50-cent---candy-shop.mp3",
+        "posterPath": "images/50-cent---candy-shop.jpg"
+    },
+    {
+        "id": "8",
+        "title": "In Da Club",
+        "subtitle": "50 Cent",
+        "audioPath": "audios/50-cent---in-da-club.mp3",
+        "posterPath": "images/50-cent---in-da-club.jpg"
+    },
+    {
+        "id": "9",
+        "title": "Just A Lil Bit",
+        "subtitle": "50 Cent",
+        "audioPath": "audios/50-cent---just-a-lil-bit.mp3",
+        "posterPath": "images/50-cent---just-a-lil-bit.jpg"
+    },
+    {
+        "id": "10",
+        "title": "P.I.M.P.",
+        "subtitle": "50 Cent",
+        "audioPath": "audios/50-cent---p.i.m.p..mp3",
+        "posterPath": "images/50-cent---p.i.m.p..jpg"
+    },
+    {
+        "id": "11",
+        "title": "How I Could Just Kill a Man",
+        "subtitle": "Cypress Hill",
+        "audioPath": "audios/cypress-hill---how-i-could-just-kill-a-man.mp3",
+        "posterPath": "images/cypress-hill---how-i-could-just-kill-a-man.jpg"
+    },
+    {
+        "id": "12",
+        "title": "Insane In The Brain",
+        "subtitle": "Cypress Hill",
+        "audioPath": "audios/cypress-hill---insane-in-the-brain.mp3",
+        "posterPath": "images/cypress-hill---insane-in-the-brain.jpg"
+    },
+    {
+        "id": "13",
+        "title": "Lowrider",
+        "subtitle": "Cypress Hill",
+        "audioPath": "audios/cypress-hill---lowrider.mp3",
+        "posterPath": "images/cypress-hill---lowrider.jpg"
+    },
+    {
+        "id": "14",
+        "title": "No Entiendes La Onda",
+        "subtitle": "Cypress Hill",
+        "audioPath": "audios/cypress-hill---no-entiendes-la-onda.mp3",
+        "posterPath": "images/cypress-hill---no-entiendes-la-onda.jpg"
+    },
+    {
+        "id": "15",
+        "title": "Siempre Peligroso",
+        "subtitle": "Cypress Hill",
+        "audioPath": "audios/cypress-hill---siempre-peligroso.mp3",
+        "posterPath": "images/cypress-hill---siempre-peligroso.jpg"
+    },
+    {
+        "id": "16",
+        "title": "Kush",
+        "subtitle": "Dr. Dre",
+        "audioPath": "audios/dr.-dre---kush.mp3",
+        "posterPath": "images/dr.-dre---kush.jpg"
+    },
+    {
+        "id": "17",
+        "title": "Still D.R.E.",
+        "subtitle": "Dr. Dre",
+        "audioPath": "audios/dr.-dre---still-d.r.e..mp3",
+        "posterPath": "images/dr.-dre---still-d.r.e..jpg"
+    },
+    {
+        "id": "18",
+        "title": "The Next Episode",
+        "subtitle": "Dr. Dre",
+        "audioPath": "audios/dr.-dre---the-next-episode.mp3",
+        "posterPath": "images/dr.-dre---the-next-episode.jpg"
+    },
+    {
+        "id": "19",
+        "title": "I Need A Doctor",
+        "subtitle": "Dr. Dre",
+        "audioPath": "audios/dr.-dre---i-need-a-doctor.mp3",
+        "posterPath": "images/dr.-dre---i-need-a-doctor.jpg"
+    },
+    {
+        "id": "20",
+        "title": "Nuthin' But A G Thang",
+        "subtitle": "Dr. Dre",
+        "audioPath": "audios/dr.-dre---nuthin'-but-a-g-thang.mp3",
+        "posterPath": "images/dr.-dre---nuthin'-but-a-g-thang.jpg"
+    },
+    {
+        "id": "21",
+        "title": "Lose Yourself",
+        "subtitle": "Eminem",
+        "audioPath": "audios/eminem---lose-yourself.mp3",
+        "posterPath": "images/eminem---lose-yourself.jpg"
+    },
+    {
+        "id": "22",
+        "title": "Love The Way You Lie",
+        "subtitle": "Eminem",
+        "audioPath": "audios/eminem---love-the-way-you-lie.mp3",
+        "posterPath": "images/eminem---love-the-way-you-lie.jpg"
+    },
+    {
+        "id": "23",
+        "title": "Stan",
+        "subtitle": "Eminem",
+        "audioPath": "audios/eminem---stan.mp3",
+        "posterPath": "images/eminem---stan.jpg"
+    },
+    {
+        "id": "24",
+        "title": "Till I Collapse",
+        "subtitle": "Eminem",
+        "audioPath": "audios/eminem---till-i-collapse.mp3",
+        "posterPath": "images/eminem---till-i-collapse.jpg"
+    },
+    {
+        "id": "25",
+        "title": "Without Me",
+        "subtitle": "Eminem",
+        "audioPath": "audios/eminem---without-me.mp3",
+        "posterPath": "images/eminem---without-me.jpg"
+    },
+    {
+        "id": "26",
+        "title": "Believe Me",
+        "subtitle": "Fort Minor",
+        "audioPath": "audios/fort-minor---believe-me.mp3",
+        "posterPath": "images/fort-minor---believe-me.jpg"
+    },
+    {
+        "id": "27",
+        "title": "Petrified",
+        "subtitle": "Fort Minor",
+        "audioPath": "audios/fort-minor---petrified.mp3",
+        "posterPath": "images/fort-minor---petrified.jpg"
+    },
+    {
+        "id": "28",
+        "title": "Remember The Name",
+        "subtitle": "Fort Minor",
+        "audioPath": "audios/fort-minor---remember-the-name.mp3",
+        "posterPath": "images/fort-minor---remember-the-name.jpg"
+    },
+    {
+        "id": "29",
+        "title": "Welcome",
+        "subtitle": "Fort Minor",
+        "audioPath": "audios/fort-minor---welcome.mp3",
+        "posterPath": "images/fort-minor---welcome.jpg"
+    },
+    {
+        "id": "30",
+        "title": "Where'd You Go",
+        "subtitle": "Fort Minor",
+        "audioPath": "audios/fort-minor---where'd-you-go.mp3",
+        "posterPath": "images/fort-minor---where'd-you-go.jpg"
+    },
+    {
+        "id": "31",
+        "title": "03 Bonnie & Clyde",
+        "subtitle": "JAY-Z",
+        "audioPath": "audios/jay-z---03-bonnie-&-clyde.mp3",
+        "posterPath": "images/jay-z---03-bonnie-&-clyde.jpg"
+    },
+    {
+        "id": "32",
+        "title": "Anything",
+        "subtitle": "JAY-Z",
+        "audioPath": "audios/jay-z---anything.mp3",
+        "posterPath": "images/jay-z---anything.jpg"
+    },
+    {
+        "id": "33",
+        "title": "Empire State Of Mind",
+        "subtitle": "JAY-Z",
+        "audioPath": "audios/jay-z---empire-state-of-mind.mp3",
+        "posterPath": "images/jay-z---empire-state-of-mind.jpg"
+    },
+    {
+        "id": "34",
+        "title": "Song Cry",
+        "subtitle": "JAY-Z",
+        "audioPath": "audios/jay-z---song-cry.mp3",
+        "posterPath": "images/jay-z---song-cry.jpg"
+    },
+    {
+        "id": "35",
+        "title": "The Story of O.J",
+        "subtitle": "JAY-Z",
+        "audioPath": "audios/jay-z---the-story-of-o.j.mp3",
+        "posterPath": "images/jay-z---the-story-of-o.j.jpg"
+    },
+    {
+        "id": "36",
+        "title": "Can't Tell Me Nothing",
+        "subtitle": "Kanye West",
+        "audioPath": "audios/kanye-west---can't-tell-me-nothing.mp3",
+        "posterPath": "images/kanye-west---can't-tell-me-nothing.jpg"
+    },
+    {
+        "id": "37",
+        "title": "Flashing Lights",
+        "subtitle": "Kanye West",
+        "audioPath": "audios/kanye-west---flashing-lights.mp3",
+        "posterPath": "images/kanye-west---flashing-lights.jpg"
+    },
+    {
+        "id": "38",
+        "title": "Gold Digger",
+        "subtitle": "Kanye West",
+        "audioPath": "audios/kanye-west---gold-digger.mp3",
+        "posterPath": "images/kanye-west---gold-digger.jpg"
+    },
+    {
+        "id": "39",
+        "title": "Stronger",
+        "subtitle": "Kanye West",
+        "audioPath": "audios/kanye-west---stronger.mp3",
+        "posterPath": "images/kanye-west---stronger.jpg"
+    },
+    {
+        "id": "40",
+        "title": "I Love It",
+        "subtitle": "Kanye West",
+        "audioPath": "audios/kanye-west---i-love-it.mp3",
+        "posterPath": "images/kanye-west---i-love-it.jpg"
+    },
+    {
+        "id": "41",
+        "title": "6 Foot 7 Foot",
+        "subtitle": "Lil Wayne",
+        "audioPath": "audios/lil-wayne---6-foot-7-foot.mp3",
+        "posterPath": "images/lil-wayne---6-foot-7-foot.jpg"
+    },
+    {
+        "id": "42",
+        "title": "How To Love",
+        "subtitle": "Lil Wayne",
+        "audioPath": "audios/lil-wayne---how-to-love.mp3",
+        "posterPath": "images/lil-wayne---how-to-love.jpg"
+    },
+    {
+        "id": "43",
+        "title": "Lollipop",
+        "subtitle": "Lil Wayne",
+        "audioPath": "audios/lil-wayne---lollipop.mp3",
+        "posterPath": "images/lil-wayne---lollipop.jpg"
+    },
+    {
+        "id": "44",
+        "title": "Love Me",
+        "subtitle": "Lil Wayne",
+        "audioPath": "audios/lil-wayne---love-me.mp3",
+        "posterPath": "images/lil-wayne---love-me.jpg"
+    },
+    {
+        "id": "45",
+        "title": "Mirror",
+        "subtitle": "Lil Wayne",
+        "audioPath": "audios/lil-wayne---mirror.mp3",
+        "posterPath": "images/lil-wayne---mirror.jpg"
+    },
+    {
+        "id": "46",
+        "title": "I Can",
+        "subtitle": "Nas",
+        "audioPath": "audios/nas---i-can.mp3",
+        "posterPath": "images/nas---i-can.jpg"
+    },
+    {
+        "id": "47",
+        "title": "If I Ruled the World",
+        "subtitle": "Nas",
+        "audioPath": "audios/nas---if-i-ruled-the-world.mp3",
+        "posterPath": "images/nas---if-i-ruled-the-world.jpg"
+    },
+    {
+        "id": "48",
+        "title": "Nas Is Like",
+        "subtitle": "Nas",
+        "audioPath": "audios/nas---nas-is-like.mp3",
+        "posterPath": "images/nas---nas-is-like.jpg"
+    },
+    {
+        "id": "49",
+        "title": "Wave Gods",
+        "subtitle": "Nas",
+        "audioPath": "audios/nas---wave-gods.mp3",
+        "posterPath": "images/nas---wave-gods.jpg"
+    },
+    {
+        "id": "50",
+        "title": "Affirmative Action",
+        "subtitle": "Nas",
+        "audioPath": "audios/nas---affirmative-action.mp3",
+        "posterPath": "images/nas---affirmative-action.jpg"
+    },
+    {
+        "id": "51",
+        "title": "Hey Ya!",
+        "subtitle": "Outkast",
+        "audioPath": "audios/outkast---hey-ya!.mp3",
+        "posterPath": "images/outkast---hey-ya!.jpg"
+    },
+    {
+        "id": "52",
+        "title": "Ms. Jackson",
+        "subtitle": "Outkast",
+        "audioPath": "audios/outkast---ms.-jackson.mp3",
+        "posterPath": "images/outkast---ms.-jackson.jpg"
+    },
+    {
+        "id": "53",
+        "title": "Roses",
+        "subtitle": "Outkast",
+        "audioPath": "audios/outkast---roses.mp3",
+        "posterPath": "images/outkast---roses.jpg"
+    },
+    {
+        "id": "54",
+        "title": "So Fresh, So Clean",
+        "subtitle": "Outkast",
+        "audioPath": "audios/outkast---so-fresh,-so-clean.mp3",
+        "posterPath": "images/outkast---so-fresh,-so-clean.jpg"
+    },
+    {
+        "id": "55",
+        "title": "The Way You Move",
+        "subtitle": "Outkast",
+        "audioPath": "audios/outkast---the-way-you-move.mp3",
+        "posterPath": "images/outkast---the-way-you-move.jpg"
+    },
+    {
+        "id": "56",
+        "title": "Can't Truss It",
+        "subtitle": "Public Enemy",
+        "audioPath": "audios/public-enemy---can't-truss-it.mp3",
+        "posterPath": "images/public-enemy---can't-truss-it.jpg"
+    },
+    {
+        "id": "57",
+        "title": "Don't Believe The Hype",
+        "subtitle": "Public Enemy",
+        "audioPath": "audios/public-enemy---don't-believe-the-hype.mp3",
+        "posterPath": "images/public-enemy---don't-believe-the-hype.jpg"
+    },
+    {
+        "id": "58",
+        "title": "Fight The Power",
+        "subtitle": "Public Enemy",
+        "audioPath": "audios/public-enemy---fight-the-power.mp3",
+        "posterPath": "images/public-enemy---fight-the-power.jpg"
+    },
+    {
+        "id": "59",
+        "title": "Give It Up",
+        "subtitle": "Public Enemy",
+        "audioPath": "audios/public-enemy---give-it-up.mp3",
+        "posterPath": "images/public-enemy---give-it-up.jpg"
+    },
+    {
+        "id": "60",
+        "title": "Shut Em Down",
+        "subtitle": "Public Enemy",
+        "audioPath": "audios/public-enemy---shut-em-down.mp3",
+        "posterPath": "images/public-enemy---shut-em-down.jpg"
+    },
+    {
+        "id": "61",
+        "title": "About The Money",
+        "subtitle": "T.I.",
+        "audioPath": "audios/t.i.---about-the-money.mp3",
+        "posterPath": "images/t.i.---about-the-money.jpg"
+    },
+    {
+        "id": "62",
+        "title": "Go Get It",
+        "subtitle": "T.I.",
+        "audioPath": "audios/t.i.---go-get-it.mp3",
+        "posterPath": "images/t.i.---go-get-it.jpg"
+    },
+    {
+        "id": "63",
+        "title": "Live Your Life",
+        "subtitle": "T.I.",
+        "audioPath": "audios/t.i.---live-your-life.mp3",
+        "posterPath": "images/t.i.---live-your-life.jpg"
+    },
+    {
+        "id": "64",
+        "title": "Memories Back Then",
+        "subtitle": "T.I.",
+        "audioPath": "audios/t.i.---memories-back-then.mp3",
+        "posterPath": "images/t.i.---memories-back-then.jpg"
+    },
+    {
+        "id": "65",
+        "title": "Whatever You Like",
+        "subtitle": "T.I.",
+        "audioPath": "audios/t.i.---whatever-you-like.mp3",
+        "posterPath": "images/t.i.---whatever-you-like.jpg"
+    },
+    {
+        "id": "66",
+        "title": "jajaja camoon",
+        "subtitle": "2Pac",
+        "audioPath": "audios/2pac---jajaja-camoon.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "67",
+        "title": "CBK",
+        "subtitle": "2Pac",
+        "audioPath": "audios/2pac---cbk.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "68",
+        "title": "Do For Love",
+        "subtitle": "2Pac",
+        "audioPath": "audios/2pac---do-for-love.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "69",
+        "title": "No Fear",
+        "subtitle": "2Pac",
+        "audioPath": "audios/2pac---no-fear.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "70",
+        "title": "Ambitions",
+        "subtitle": "2Pac",
+        "audioPath": "audios/2pac---ambitions.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "71",
+        "title": "Bullet",
+        "subtitle": "2Pac",
+        "audioPath": "audios/2pac---bullet.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "72",
+        "title": "Song",
+        "subtitle": "50 Cent",
+        "audioPath": "audios/50-cent---song.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "73",
+        "title": "Song",
+        "subtitle": "Beat The Pussy Up",
+        "audioPath": "audios/beat-the-pussy-up---song.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "74",
+        "title": "V2",
+        "subtitle": "All Eyez On Me",
+        "audioPath": "audios/all-eyez-on-me---v2.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "75",
+        "title": "Song",
+        "subtitle": "Aye Hip Hopper",
+        "audioPath": "audios/aye-hip-hopper---song.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "76",
+        "title": "Melody 1",
+        "subtitle": "Hip Hop",
+        "audioPath": "audios/hip-hop---melody-1.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "77",
+        "title": "Melody 2",
+        "subtitle": "Hip Hop",
+        "audioPath": "audios/hip-hop---melody-2.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "78",
+        "title": "Melody 3",
+        "subtitle": "Hip Hop",
+        "audioPath": "audios/hip-hop---melody-3.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "79",
+        "title": "Melody 4",
+        "subtitle": "Hip Hop",
+        "audioPath": "audios/hip-hop---melody-4.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "80",
+        "title": "Melody 5",
+        "subtitle": "Hip Hop",
+        "audioPath": "audios/hip-hop---melody-5.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "81",
+        "title": "Yamborghini High",
+        "subtitle": "AAP Rocky",
+        "audioPath": "audios/aap-rocky---yamborghini-high.mp3",
+        "posterPath": "images/aap-rocky---yamborghini-high.jpg"
+    },
+    {
+        "id": "82",
+        "title": "AAP Forever",
+        "subtitle": "AAP Rocky",
+        "audioPath": "audios/aap-rocky---aap-forever.mp3",
+        "posterPath": "images/aap-rocky---aap-forever.jpg"
+    },
+    {
+        "id": "83",
+        "title": "DMB",
+        "subtitle": "AAP Rocky",
+        "audioPath": "audios/aap-rocky---dmb.mp3",
+        "posterPath": "images/aap-rocky---dmb.jpg"
+    },
+    {
+        "id": "84",
+        "title": "Fkin Problems",
+        "subtitle": "AAP Rocky",
+        "audioPath": "audios/aap-rocky---fkin-problems.mp3",
+        "posterPath": "images/aap-rocky---fkin-problems.jpg"
+    },
+    {
+        "id": "85",
+        "title": "Praise The Lord Da Shine",
+        "subtitle": "AAP Rocky",
+        "audioPath": "audios/aap-rocky---praise-the-lord-da-shine.mp3",
+        "posterPath": "images/aap-rocky---praise-the-lord-da-shine.jpg"
+    },
+    {
+        "id": "86",
+        "title": "Life Is Good",
+        "subtitle": "Future",
+        "audioPath": "audios/future---life-is-good.mp3",
+        "posterPath": "images/future---life-is-good.jpg"
+    },
+    {
+        "id": "87",
+        "title": "Low Life",
+        "subtitle": "Future",
+        "audioPath": "audios/future---low-life.mp3",
+        "posterPath": "images/future---low-life.jpg"
+    },
+    {
+        "id": "88",
+        "title": "Mask Off",
+        "subtitle": "Future",
+        "audioPath": "audios/future---mask-off.mp3",
+        "posterPath": "images/future---mask-off.jpg"
+    },
+    {
+        "id": "89",
+        "title": "Turn On The Lights",
+        "subtitle": "Future",
+        "audioPath": "audios/future---turn-on-the-lights.mp3",
+        "posterPath": "images/future---turn-on-the-lights.jpg"
+    },
+    {
+        "id": "90",
+        "title": "Used to This",
+        "subtitle": "Future",
+        "audioPath": "audios/future---used-to-this.mp3",
+        "posterPath": "images/future---used-to-this.jpg"
+    },
+    {
+        "id": "91",
+        "title": "GOMD",
+        "subtitle": "J Cole",
+        "audioPath": "audios/j-cole---gomd.mp3",
+        "posterPath": "images/j-cole---gomd.jpg"
+    },
+    {
+        "id": "92",
+        "title": "MIDDLE CHILD",
+        "subtitle": "J Cole",
+        "audioPath": "audios/j-cole---middle-child.mp3",
+        "posterPath": "images/j-cole---middle-child.jpg"
+    },
+    {
+        "id": "93",
+        "title": "She Knows Explicit",
+        "subtitle": "J Cole",
+        "audioPath": "audios/j-cole---she-knows-explicit.mp3",
+        "posterPath": "images/j-cole---she-knows-explicit.jpg"
+    },
+    {
+        "id": "94",
+        "title": "Wet Dreamz",
+        "subtitle": "J Cole",
+        "audioPath": "audios/j-cole---wet-dreamz.mp3",
+        "posterPath": "images/j-cole---wet-dreamz.jpg"
+    },
+    {
+        "id": "95",
+        "title": "Bitch Dont Kill My vibe Explicit",
+        "subtitle": "Kendrick Lamar",
+        "audioPath": "audios/kendrick-lamar---bitch-dont-kill-my-vibe-explicit.mp3",
+        "posterPath": "images/kendrick-lamar---bitch-dont-kill-my-vibe-explicit.jpg"
+    },
+    {
+        "id": "96",
+        "title": "DNA",
+        "subtitle": "Kendrick Lamar",
+        "audioPath": "audios/kendrick-lamar---dna.mp3",
+        "posterPath": "images/kendrick-lamar---dna.jpg"
+    },
+    {
+        "id": "97",
+        "title": "Humble",
+        "subtitle": "Kendrick Lamar",
+        "audioPath": "audios/kendrick-lamar---humble.mp3",
+        "posterPath": "images/kendrick-lamar---humble.jpg"
+    },
+    {
+        "id": "98",
+        "title": "Money Trees",
+        "subtitle": "Kendrick Lamar",
+        "audioPath": "audios/kendrick-lamar---money-trees.mp3",
+        "posterPath": "images/kendrick-lamar---money-trees.jpg"
+    },
+    {
+        "id": "99",
+        "title": "Pray For Me",
+        "subtitle": "Kendrick Lamar",
+        "audioPath": "audios/kendrick-lamar---pray-for-me.mp3",
+        "posterPath": "images/kendrick-lamar---pray-for-me.jpg"
+    },
+    {
+        "id": "100",
+        "title": "SZA All The Stars",
+        "subtitle": "Kendrick Lamar",
+        "audioPath": "audios/kendrick-lamar---sza-all-the-stars.mp3",
+        "posterPath": "images/kendrick-lamar---sza-all-the-stars.jpg"
+    },
+    {
+        "id": "101",
+        "title": "Bad and Boujee",
+        "subtitle": "Migos",
+        "audioPath": "audios/migos---bad-and-boujee.mp3",
+        "posterPath": "images/migos---bad-and-boujee.jpg"
+    },
+    {
+        "id": "102",
+        "title": "Motor Sport",
+        "subtitle": "Migos",
+        "audioPath": "audios/migos---motor-sport.mp3",
+        "posterPath": "images/migos---motor-sport.jpg"
+    },
+    {
+        "id": "103",
+        "title": "Slippery",
+        "subtitle": "Migos",
+        "audioPath": "audios/migos---slippery.mp3",
+        "posterPath": "images/migos---slippery.jpg"
+    },
+    {
+        "id": "104",
+        "title": "Walk It Talk It",
+        "subtitle": "Migos",
+        "audioPath": "audios/migos---walk-it-talk-it.mp3",
+        "posterPath": "images/migos---walk-it-talk-it.jpg"
+    },
+    {
+        "id": "105",
+        "title": "Pure Water",
+        "subtitle": "Migos",
+        "audioPath": "audios/migos---pure-water.mp3",
+        "posterPath": "images/migos---pure-water.jpg"
+    }
+]

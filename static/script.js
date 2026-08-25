@@ -63,6 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const pColArtist = document.getElementById('profColArtist');
     const pColTitle = document.getElementById('profColTitle');
     const pColIcon = document.getElementById('profColIcon');
+    const pFilenameFormat = document.getElementById('profFilenameFormat');
     
     const profileEditor = document.getElementById('profileEditor');
 
@@ -106,6 +107,7 @@ document.addEventListener('DOMContentLoaded', () => {
             pColArtist.value = p.col_artist || "Subtitle";
             pColTitle.value = p.col_title || "Title";
             pColIcon.value = p.col_icon || "Icon";
+            pFilenameFormat.value = p.filename_format || "artista_titulo";
         }
     });
 
@@ -145,7 +147,8 @@ document.addEventListener('DOMContentLoaded', () => {
             col_audio: pColAudio.value.trim() || "Ringtone",
             col_artist: pColArtist.value.trim() || "Subtitle",
             col_title: pColTitle.value.trim() || "Title",
-            col_icon: pColIcon.value.trim() || "Icon"
+            col_icon: pColIcon.value.trim() || "Icon",
+            filename_format: pFilenameFormat.value || "artista_titulo"
         };
         const id = profileSelect.value;
         if (id) payload.id = id;
@@ -181,6 +184,7 @@ document.addEventListener('DOMContentLoaded', () => {
         pColArtist.value = "Subtitle";
         pColTitle.value = "Title";
         pColIcon.value = "Icon";
+        pFilenameFormat.value = "artista_titulo";
     }
 
     loadProfiles();

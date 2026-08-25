@@ -133,6 +133,13 @@
                                 <label>Nombre Columna: Portada (Opcional) <span class="help-icon" data-tooltip="La columna que contiene la imagen de la canción (Ej. 'Icon' o 'Portada').">?</span></label>
                                 <input type="text" id="profColIcon" placeholder="Icon">
                             </div>
+                            <div class="input-group" style="grid-column: span 2;">
+                                <label>Formato Nombre de Archivo <span class="help-icon" data-tooltip="Define cómo se nombrará el archivo MP3 físico descargado.">?</span></label>
+                                <select id="profFilenameFormat">
+                                    <option value="artista_titulo">Artista - Título (Ej. Ringtones 1 - Iglesia)</option>
+                                    <option value="titulo_artista">Título - Artista (Ej. Iglesia - Ringtones 1)</option>
+                                </select>
+                            </div>
                         </div>
 
                         <button id="saveProfileBtn" class="btn btn-primary" style="width: 100%; margin-top: 10px;">💾 Guardar Cambios</button>
