@@ -950,5 +950,68 @@
         "subtitle": "Coolio",
         "audioPath": "audios/coolio-gangstas-paradise.mp3",
         "posterPath": ""
+    },
+    {
+        "id": "137",
+        "title": "Regulate",
+        "subtitle": "Warren G",
+        "audioPath": "audios/warren-g-regulate.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "138",
+        "title": "X Gon' Give It To Ya",
+        "subtitle": "DMX",
+        "audioPath": "audios/dmx-x-gon-give-it-to-ya.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "139",
+        "title": "Ruff Ryders' Anthem",
+        "subtitle": "DMX",
+        "audioPath": "audios/dmx-ruff-ryders-anthem.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "140",
+        "title": "Straight Outta Compton",
+        "subtitle": "N.W.A.",
+        "audioPath": "audios/n.w.a.-straight-outta-compton.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "141",
+        "title": "C.R.E.A.M.",
+        "subtitle": "Wu-Tang Clan",
+        "audioPath": "audios/wu-tang-clan-c.r.e.a.m..mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "142",
+        "title": "Shook Ones Pt. II",
+        "subtitle": "Mobb Deep",
+        "audioPath": "audios/mobb-deep-shook-ones-pt.-ii.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "143",
+        "title": "Plain Jane",
+        "subtitle": "A$AP Ferg",
+        "audioPath": "audios/aap-ferg-plain-jane.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "144",
+        "title": "Mo Bamba",
+        "subtitle": "Sheck Wes",
+        "audioPath": "audios/sheck-wes-mo-bamba.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "145",
+        "title": "Hot N*gga",
+        "subtitle": "Bobby Shmurda",
+        "audioPath": "audios/bobby-shmurda-hot-ngga.mp3",
+        "posterPath": ""
     }
 ]
