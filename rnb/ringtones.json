@@ -1,0 +1,604 @@
+[
+    {
+        "id": "1",
+        "title": "Alicia Keys",
+        "subtitle": "Fallin'_keys-fallin",
+        "audioPath": "audios/fallin'_keys-fallin---alicia-keys.mp3",
+        "posterPath": "images/fallin'_keys-fallin---alicia-keys.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Alicia Keys",
+        "subtitle": "If I Ain't Got You",
+        "audioPath": "audios/if-i-ain't-got-you---alicia-keys.mp3",
+        "posterPath": "images/if-i-ain't-got-you---alicia-keys.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Alicia Keys",
+        "subtitle": "In Common",
+        "audioPath": "audios/in-common---alicia-keys.mp3",
+        "posterPath": "images/in-common---alicia-keys.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Alicia Keys",
+        "subtitle": "No One",
+        "audioPath": "audios/no-one---alicia-keys.mp3",
+        "posterPath": "images/no-one---alicia-keys.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Alicia Keys",
+        "subtitle": "Try Sleeping With a Broken Heart",
+        "audioPath": "audios/try-sleeping-with-a-broken-heart---alicia-keys.mp3",
+        "posterPath": "images/try-sleeping-with-a-broken-heart---alicia-keys.jpg"
+    },
+    {
+        "id": "6",
+        "title": "Alicia Keys",
+        "subtitle": "Un-Thinkable",
+        "audioPath": "audios/un-thinkable---alicia-keys.mp3",
+        "posterPath": "images/un-thinkable---alicia-keys.jpg"
+    },
+    {
+        "id": "7",
+        "title": "Alicia Keys",
+        "subtitle": "You Don't Know My Name",
+        "audioPath": "audios/you-don't-know-my-name---alicia-keys.mp3",
+        "posterPath": "images/you-don't-know-my-name---alicia-keys.jpg"
+    },
+    {
+        "id": "8",
+        "title": "Amy Winehouse",
+        "subtitle": "pumps song",
+        "audioPath": "audios/pumps-song---amy-winehouse.mp3",
+        "posterPath": "images/pumps-song---amy-winehouse.jpg"
+    },
+    {
+        "id": "9",
+        "title": "Amy Winehouse",
+        "subtitle": "Help Yourself",
+        "audioPath": "audios/help-yourself---amy-winehouse.mp3",
+        "posterPath": "images/help-yourself---amy-winehouse.jpg"
+    },
+    {
+        "id": "10",
+        "title": "Amy Winehouse",
+        "subtitle": "I Heard Love Is Blind",
+        "audioPath": "audios/i-heard-love-is-blind---amy-winehouse.mp3",
+        "posterPath": "images/i-heard-love-is-blind---amy-winehouse.jpg"
+    },
+    {
+        "id": "11",
+        "title": "Amy Winehouse",
+        "subtitle": "In My Bed",
+        "audioPath": "audios/in-my-bed---amy-winehouse.mp3",
+        "posterPath": "images/in-my-bed---amy-winehouse.jpg"
+    },
+    {
+        "id": "12",
+        "title": "Amy Winehouse",
+        "subtitle": "Intro  Stronger Than Me",
+        "audioPath": "audios/intro--stronger-than-me---amy-winehouse.mp3",
+        "posterPath": "images/intro--stronger-than-me---amy-winehouse.jpg"
+    },
+    {
+        "id": "13",
+        "title": "Amy Winehouse",
+        "subtitle": "Know You Now",
+        "audioPath": "audios/know-you-now---amy-winehouse.mp3",
+        "posterPath": "images/know-you-now---amy-winehouse.jpg"
+    },
+    {
+        "id": "14",
+        "title": "Amy Winehouse",
+        "subtitle": "October Song",
+        "audioPath": "audios/october-song---amy-winehouse.mp3",
+        "posterPath": "images/october-song---amy-winehouse.jpg"
+    },
+    {
+        "id": "15",
+        "title": "Amy Winehouse",
+        "subtitle": "Our Day Will Come",
+        "audioPath": "audios/our-day-will-come---amy-winehouse.mp3",
+        "posterPath": "images/our-day-will-come---amy-winehouse.jpg"
+    },
+    {
+        "id": "16",
+        "title": "Amy Winehouse",
+        "subtitle": "The Girl From Ipanema",
+        "audioPath": "audios/the-girl-from-ipanema---amy-winehouse.mp3",
+        "posterPath": "images/the-girl-from-ipanema---amy-winehouse.jpg"
+    },
+    {
+        "id": "17",
+        "title": "Amy Winehouse",
+        "subtitle": "Valerie",
+        "audioPath": "audios/valerie---amy-winehouse.mp3",
+        "posterPath": "images/valerie---amy-winehouse.jpg"
+    },
+    {
+        "id": "18",
+        "title": "Beyonce",
+        "subtitle": "Crazy in Love",
+        "audioPath": "audios/crazy-in-love---beyonce.mp3",
+        "posterPath": "images/crazy-in-love---beyonce.jpg"
+    },
+    {
+        "id": "19",
+        "title": "Beyonce",
+        "subtitle": "Formation",
+        "audioPath": "audios/formation---beyonce.mp3",
+        "posterPath": "images/formation---beyonce.jpg"
+    },
+    {
+        "id": "20",
+        "title": "Beyonce",
+        "subtitle": "Partition",
+        "audioPath": "audios/partition---beyonce.mp3",
+        "posterPath": "images/partition---beyonce.jpg"
+    },
+    {
+        "id": "21",
+        "title": "Bruno Mars",
+        "subtitle": "Locked Out of Heaven",
+        "audioPath": "audios/locked-out-of-heaven---bruno-mars.mp3",
+        "posterPath": "images/locked-out-of-heaven---bruno-mars.jpg"
+    },
+    {
+        "id": "22",
+        "title": "Bruno Mars",
+        "subtitle": "That's What I Like",
+        "audioPath": "audios/that's-what-i-like---bruno-mars.mp3",
+        "posterPath": "images/that's-what-i-like---bruno-mars.jpg"
+    },
+    {
+        "id": "23",
+        "title": "Bruno Mars",
+        "subtitle": "Adore You",
+        "audioPath": "audios/adore-you---bruno-mars.mp3",
+        "posterPath": "images/adore-you---bruno-mars.jpg"
+    },
+    {
+        "id": "24",
+        "title": "Bruno Mars",
+        "subtitle": "Treasure",
+        "audioPath": "audios/treasure---bruno-mars.mp3",
+        "posterPath": "images/treasure---bruno-mars.jpg"
+    },
+    {
+        "id": "25",
+        "title": "Bruno Mars",
+        "subtitle": "Versace on the Floor",
+        "audioPath": "audios/versace-on-the-floor---bruno-mars.mp3",
+        "posterPath": "images/versace-on-the-floor---bruno-mars.jpg"
+    },
+    {
+        "id": "26",
+        "title": "Bruno Mars",
+        "subtitle": "When I Was Your Man",
+        "audioPath": "audios/when-i-was-your-man---bruno-mars.mp3",
+        "posterPath": "images/when-i-was-your-man---bruno-mars.jpg"
+    },
+    {
+        "id": "27",
+        "title": "Frank Ocean",
+        "subtitle": "Chanel",
+        "audioPath": "audios/chanel---frank-ocean.mp3",
+        "posterPath": "images/chanel---frank-ocean.jpg"
+    },
+    {
+        "id": "28",
+        "title": "Frank Ocean",
+        "subtitle": "Ivy",
+        "audioPath": "audios/ivy---frank-ocean.mp3",
+        "posterPath": "images/ivy---frank-ocean.jpg"
+    },
+    {
+        "id": "29",
+        "title": "Frank Ocean",
+        "subtitle": "Nights",
+        "audioPath": "audios/nights---frank-ocean.mp3",
+        "posterPath": "images/nights---frank-ocean.jpg"
+    },
+    {
+        "id": "30",
+        "title": "Frank Ocean",
+        "subtitle": "Nikes",
+        "audioPath": "audios/nikes---frank-ocean.mp3",
+        "posterPath": "images/nikes---frank-ocean.jpg"
+    },
+    {
+        "id": "31",
+        "title": "Frank Ocean",
+        "subtitle": "Pink + White",
+        "audioPath": "audios/pink-+-white---frank-ocean.mp3",
+        "posterPath": "images/pink-+-white---frank-ocean.jpg"
+    },
+    {
+        "id": "32",
+        "title": "Frank Ocean",
+        "subtitle": "Self Control",
+        "audioPath": "audios/self-control---frank-ocean.mp3",
+        "posterPath": "images/self-control---frank-ocean.jpg"
+    },
+    {
+        "id": "33",
+        "title": "Frank Ocean",
+        "subtitle": "White Ferrari",
+        "audioPath": "audios/white-ferrari---frank-ocean.mp3",
+        "posterPath": "images/white-ferrari---frank-ocean.jpg"
+    },
+    {
+        "id": "34",
+        "title": "Justin Bieber",
+        "subtitle": "As Long As You Love Me",
+        "audioPath": "audios/as-long-as-you-love-me---justin-bieber.mp3",
+        "posterPath": "images/as-long-as-you-love-me---justin-bieber.jpg"
+    },
+    {
+        "id": "35",
+        "title": "Justin Bieber",
+        "subtitle": "Beauty and a Beat",
+        "audioPath": "audios/beauty-and-a-beat---justin-bieber.mp3",
+        "posterPath": "images/beauty-and-a-beat---justin-bieber.jpg"
+    },
+    {
+        "id": "36",
+        "title": "Justin Bieber",
+        "subtitle": "Boyfriend",
+        "audioPath": "audios/boyfriend---justin-bieber.mp3",
+        "posterPath": "images/boyfriend---justin-bieber.jpg"
+    },
+    {
+        "id": "37",
+        "title": "Justin Bieber",
+        "subtitle": "Company",
+        "audioPath": "audios/company---justin-bieber.mp3",
+        "posterPath": "images/company---justin-bieber.jpg"
+    },
+    {
+        "id": "38",
+        "title": "Justin Bieber",
+        "subtitle": "Love Yourself",
+        "audioPath": "audios/love-yourself---justin-bieber.mp3",
+        "posterPath": "images/love-yourself---justin-bieber.jpg"
+    },
+    {
+        "id": "39",
+        "title": "Justin Bieber",
+        "subtitle": "Sorry",
+        "audioPath": "audios/sorry---justin-bieber.mp3",
+        "posterPath": "images/sorry---justin-bieber.jpg"
+    },
+    {
+        "id": "40",
+        "title": "Justin Timberlake",
+        "subtitle": "Cry Me a River",
+        "audioPath": "audios/cry-me-a-river---justin-timberlake.mp3",
+        "posterPath": "images/cry-me-a-river---justin-timberlake.jpg"
+    },
+    {
+        "id": "41",
+        "title": "Justin Timberlake",
+        "subtitle": "Filthy",
+        "audioPath": "audios/filthy---justin-timberlake.mp3",
+        "posterPath": "images/filthy---justin-timberlake.jpg"
+    },
+    {
+        "id": "42",
+        "title": "Justin Timberlake",
+        "subtitle": "Last Night",
+        "audioPath": "audios/last-night---justin-timberlake.mp3",
+        "posterPath": "images/last-night---justin-timberlake.jpg"
+    },
+    {
+        "id": "43",
+        "title": "Justin Timberlake",
+        "subtitle": "Let's Take a Ride",
+        "audioPath": "audios/let's-take-a-ride---justin-timberlake.mp3",
+        "posterPath": "images/let's-take-a-ride---justin-timberlake.jpg"
+    },
+    {
+        "id": "44",
+        "title": "Justin Timberlake",
+        "subtitle": "Like I Love You",
+        "audioPath": "audios/like-i-love-you---justin-timberlake.mp3",
+        "posterPath": "images/like-i-love-you---justin-timberlake.jpg"
+    },
+    {
+        "id": "45",
+        "title": "Justin Timberlake",
+        "subtitle": "Never Again",
+        "audioPath": "audios/never-again---justin-timberlake.mp3",
+        "posterPath": "images/never-again---justin-timberlake.jpg"
+    },
+    {
+        "id": "46",
+        "title": "Justin Timberlake",
+        "subtitle": "Not a Bad Thing",
+        "audioPath": "audios/not-a-bad-thing---justin-timberlake.mp3",
+        "posterPath": "images/not-a-bad-thing---justin-timberlake.jpg"
+    },
+    {
+        "id": "47",
+        "title": "Justin Timberlake",
+        "subtitle": "Nothin' Else",
+        "audioPath": "audios/nothin'-else---justin-timberlake.mp3",
+        "posterPath": "images/nothin'-else---justin-timberlake.jpg"
+    },
+    {
+        "id": "48",
+        "title": "Justin Timberlake",
+        "subtitle": "Say Something",
+        "audioPath": "audios/say-something---justin-timberlake.mp3",
+        "posterPath": "images/say-something---justin-timberlake.jpg"
+    },
+    {
+        "id": "49",
+        "title": "Justin Timberlake",
+        "subtitle": "Still on My Brain",
+        "audioPath": "audios/still-on-my-brain---justin-timberlake.mp3",
+        "posterPath": "images/still-on-my-brain---justin-timberlake.jpg"
+    },
+    {
+        "id": "50",
+        "title": "Kelly Clarkson",
+        "subtitle": "Because Of You",
+        "audioPath": "audios/because-of-you---kelly-clarkson.mp3",
+        "posterPath": "images/because-of-you---kelly-clarkson.jpg"
+    },
+    {
+        "id": "51",
+        "title": "Michael Jackson",
+        "subtitle": "Billie Jean",
+        "audioPath": "audios/billie-jean---michael-jackson.mp3",
+        "posterPath": "images/billie-jean---michael-jackson.png"
+    },
+    {
+        "id": "52",
+        "title": "Michael Jackson",
+        "subtitle": "Black or White",
+        "audioPath": "audios/black-or-white---michael-jackson.mp3",
+        "posterPath": "images/black-or-white---michael-jackson.png"
+    },
+    {
+        "id": "53",
+        "title": "Michael Jackson",
+        "subtitle": "Human Nature",
+        "audioPath": "audios/human-nature---michael-jackson.mp3",
+        "posterPath": "images/human-nature---michael-jackson.png"
+    },
+    {
+        "id": "54",
+        "title": "Michael Jackson",
+        "subtitle": "Leave Me Alone",
+        "audioPath": "audios/leave-me-alone---michael-jackson.mp3",
+        "posterPath": "images/leave-me-alone---michael-jackson.png"
+    },
+    {
+        "id": "55",
+        "title": "Michael Jackson",
+        "subtitle": "Love Never Felt So Good",
+        "audioPath": "audios/love-never-felt-so-good---michael-jackson.mp3",
+        "posterPath": "images/love-never-felt-so-good---michael-jackson.png"
+    },
+    {
+        "id": "56",
+        "title": "Michael Jackson",
+        "subtitle": "Remember the Time",
+        "audioPath": "audios/remember-the-time---michael-jackson.mp3",
+        "posterPath": "images/remember-the-time---michael-jackson.png"
+    },
+    {
+        "id": "57",
+        "title": "Michael Jackson",
+        "subtitle": "Speed Demon",
+        "audioPath": "audios/speed-demon---michael-jackson.mp3",
+        "posterPath": "images/speed-demon---michael-jackson.png"
+    },
+    {
+        "id": "58",
+        "title": "Michael Jackson",
+        "subtitle": "Thriller",
+        "audioPath": "audios/thriller---michael-jackson.mp3",
+        "posterPath": "images/thriller---michael-jackson.png"
+    },
+    {
+        "id": "59",
+        "title": "Rihanna",
+        "subtitle": "Dem Haters",
+        "audioPath": "audios/dem-haters---rihanna.mp3",
+        "posterPath": "images/dem-haters---rihanna.jpg"
+    },
+    {
+        "id": "60",
+        "title": "Rihanna",
+        "subtitle": "Kiss It Better",
+        "audioPath": "audios/kiss-it-better---rihanna.mp3",
+        "posterPath": "images/kiss-it-better---rihanna.jpg"
+    },
+    {
+        "id": "61",
+        "title": "Rihanna",
+        "subtitle": "Lemon",
+        "audioPath": "audios/lemon---rihanna.mp3",
+        "posterPath": "images/lemon---rihanna.jpg"
+    },
+    {
+        "id": "62",
+        "title": "Rihanna",
+        "subtitle": "Rehab",
+        "audioPath": "audios/rehab---rihanna.mp3",
+        "posterPath": "images/rehab---rihanna.jpg"
+    },
+    {
+        "id": "63",
+        "title": "Rihanna",
+        "subtitle": "Sex With Me",
+        "audioPath": "audios/sex-with-me---rihanna.mp3",
+        "posterPath": "images/sex-with-me---rihanna.jpg"
+    },
+    {
+        "id": "64",
+        "title": "Rihanna",
+        "subtitle": "Work",
+        "audioPath": "audios/work---rihanna.mp3",
+        "posterPath": "images/work---rihanna.jpg"
+    },
+    {
+        "id": "65",
+        "title": "The Chainsmokers",
+        "subtitle": "Closer",
+        "audioPath": "audios/closer---the-chainsmokers.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "66",
+        "title": "Trey Songz",
+        "subtitle": "Can't Help But Wait",
+        "audioPath": "audios/can't-help-but-wait---trey-songz.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "67",
+        "title": "Eminem",
+        "subtitle": "Lose Yourself",
+        "audioPath": "audios/lose-yourself---eminem.mp3",
+        "posterPath": "images/lose-yourself---eminem.jpg"
+    },
+    {
+        "id": "68",
+        "title": "Eminem",
+        "subtitle": "Love The Way You Lie",
+        "audioPath": "audios/love-the-way-you-lie---eminem.mp3",
+        "posterPath": "images/love-the-way-you-lie---eminem.jpg"
+    },
+    {
+        "id": "69",
+        "title": "Eminem",
+        "subtitle": "Stan",
+        "audioPath": "audios/stan---eminem.mp3",
+        "posterPath": "images/stan---eminem.jpg"
+    },
+    {
+        "id": "70",
+        "title": "Eminem",
+        "subtitle": "Till I Collapse",
+        "audioPath": "audios/till-i-collapse---eminem.mp3",
+        "posterPath": "images/till-i-collapse---eminem.jpg"
+    },
+    {
+        "id": "71",
+        "title": "Eminem",
+        "subtitle": "Without Me",
+        "audioPath": "audios/without-me---eminem.mp3",
+        "posterPath": "images/without-me---eminem.jpg"
+    },
+    {
+        "id": "72",
+        "title": "Kanye West",
+        "subtitle": "Can't Tell Me Nothing",
+        "audioPath": "audios/can't-tell-me-nothing---kanye-west.mp3",
+        "posterPath": "images/can't-tell-me-nothing---kanye-west.jpg"
+    },
+    {
+        "id": "73",
+        "title": "Kanye West",
+        "subtitle": "Flashing Lights",
+        "audioPath": "audios/flashing-lights---kanye-west.mp3",
+        "posterPath": "images/flashing-lights---kanye-west.jpg"
+    },
+    {
+        "id": "74",
+        "title": "Kanye West",
+        "subtitle": "Gold Digger",
+        "audioPath": "audios/gold-digger---kanye-west.mp3",
+        "posterPath": "images/gold-digger---kanye-west.jpg"
+    },
+    {
+        "id": "75",
+        "title": "Kanye West",
+        "subtitle": "Stronger",
+        "audioPath": "audios/stronger---kanye-west.mp3",
+        "posterPath": "images/stronger---kanye-west.jpg"
+    },
+    {
+        "id": "76",
+        "title": "Kanye West",
+        "subtitle": "I Love It feat. Adele Givens",
+        "audioPath": "audios/i-love-it-feat.-adele-givens---kanye-west.mp3",
+        "posterPath": "images/i-love-it-feat.-adele-givens---kanye-west.jpg"
+    },
+    {
+        "id": "77",
+        "title": "Lil Wayne",
+        "subtitle": "6 Foot 7 Foot",
+        "audioPath": "audios/6-foot-7-foot---lil-wayne.mp3",
+        "posterPath": "images/6-foot-7-foot---lil-wayne.jpg"
+    },
+    {
+        "id": "78",
+        "title": "Lil Wayne",
+        "subtitle": "How To Love",
+        "audioPath": "audios/how-to-love---lil-wayne.mp3",
+        "posterPath": "images/how-to-love---lil-wayne.jpg"
+    },
+    {
+        "id": "79",
+        "title": "Lil Wayne",
+        "subtitle": "Lollipop",
+        "audioPath": "audios/lollipop---lil-wayne.mp3",
+        "posterPath": "images/lollipop---lil-wayne.jpg"
+    },
+    {
+        "id": "80",
+        "title": "Lil Wayne",
+        "subtitle": "Love Me",
+        "audioPath": "audios/love-me---lil-wayne.mp3",
+        "posterPath": "images/love-me---lil-wayne.jpg"
+    },
+    {
+        "id": "81",
+        "title": "Lil Wayne",
+        "subtitle": "Mirror",
+        "audioPath": "audios/mirror---lil-wayne.mp3",
+        "posterPath": "images/mirror---lil-wayne.jpg"
+    },
+    {
+        "id": "82",
+        "title": "Nas",
+        "subtitle": "I Can",
+        "audioPath": "audios/i-can---nas.mp3",
+        "posterPath": "images/i-can---nas.jpg"
+    },
+    {
+        "id": "83",
+        "title": "Nas",
+        "subtitle": "If I Ruled the World",
+        "audioPath": "audios/if-i-ruled-the-world---nas.mp3",
+        "posterPath": "images/if-i-ruled-the-world---nas.jpg"
+    },
+    {
+        "id": "84",
+        "title": "Nas",
+        "subtitle": "Nas Is Like",
+        "audioPath": "audios/nas-is-like---nas.mp3",
+        "posterPath": "images/nas-is-like---nas.jpg"
+    },
+    {
+        "id": "85",
+        "title": "Nas",
+        "subtitle": "Wave Gods",
+        "audioPath": "audios/wave-gods---nas.mp3",
+        "posterPath": "images/wave-gods---nas.jpg"
+    },
+    {
+        "id": "86",
+        "title": "Nas",
+        "subtitle": "Affirmative Action",
+        "audioPath": "audios/affirmative-action---nas.mp3",
+        "posterPath": "images/affirmative-action---nas.jpg"
+    }
+]
