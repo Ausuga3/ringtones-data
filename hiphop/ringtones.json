@@ -733,5 +733,222 @@
         "subtitle": "Migos",
         "audioPath": "audios/migos---pure-water.mp3",
         "posterPath": "images/migos---pure-water.jpg"
+    },
+    {
+        "id": "106",
+        "title": "SICKO MODE",
+        "subtitle": "Travis Scott",
+        "audioPath": "audios/travis-scott-sicko-mode.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "107",
+        "title": "FE!N",
+        "subtitle": "Travis Scott",
+        "audioPath": "audios/travis-scott-fen.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "108",
+        "title": "Goosebumps",
+        "subtitle": "Travis Scott",
+        "audioPath": "audios/travis-scott-goosebumps.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "109",
+        "title": "Nonstop",
+        "subtitle": "Drake",
+        "audioPath": "audios/drake-nonstop.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "110",
+        "title": "God's Plan",
+        "subtitle": "Drake",
+        "audioPath": "audios/drake-gods-plan.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "111",
+        "title": "Hotline Bling",
+        "subtitle": "Drake",
+        "audioPath": "audios/drake-hotline-bling.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "112",
+        "title": "Rockstar",
+        "subtitle": "Post Malone",
+        "audioPath": "audios/post-malone-rockstar.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "113",
+        "title": "White Iverson",
+        "subtitle": "Post Malone",
+        "audioPath": "audios/post-malone-white-iverson.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "114",
+        "title": "Congratulations",
+        "subtitle": "Post Malone",
+        "audioPath": "audios/post-malone-congratulations.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "115",
+        "title": "Look At Me!",
+        "subtitle": "XXXTENTACION",
+        "audioPath": "audios/xxxtentacion-look-at-me.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "116",
+        "title": "Moonlight",
+        "subtitle": "XXXTENTACION",
+        "audioPath": "audios/xxxtentacion-moonlight.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "117",
+        "title": "Lucid Dreams",
+        "subtitle": "Juice WRLD",
+        "audioPath": "audios/juice-wrld-lucid-dreams.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "118",
+        "title": "Robbery",
+        "subtitle": "Juice WRLD",
+        "audioPath": "audios/juice-wrld-robbery.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "119",
+        "title": "All Girls Are The Same",
+        "subtitle": "Juice WRLD",
+        "audioPath": "audios/juice-wrld-all-girls-are-the-same.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "120",
+        "title": "Sad!",
+        "subtitle": "XXXTENTACION",
+        "audioPath": "audios/xxxtentacion-sad.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "121",
+        "title": "The Box",
+        "subtitle": "Roddy Ricch",
+        "audioPath": "audios/roddy-ricch-the-box.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "122",
+        "title": "Bodak Yellow",
+        "subtitle": "Cardi B",
+        "audioPath": "audios/cardi-b-bodak-yellow.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "123",
+        "title": "fukumean",
+        "subtitle": "Gunna",
+        "audioPath": "audios/gunna-fukumean.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "124",
+        "title": "Whats Poppin",
+        "subtitle": "Jack Harlow",
+        "audioPath": "audios/jack-harlow-whats-poppin.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "125",
+        "title": "Dior",
+        "subtitle": "Pop Smoke",
+        "audioPath": "audios/pop-smoke-dior.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "126",
+        "title": "Welcome to the Party",
+        "subtitle": "Pop Smoke",
+        "audioPath": "audios/pop-smoke-welcome-to-the-party.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "127",
+        "title": "Juicy",
+        "subtitle": "The Notorious B.I.G.",
+        "audioPath": "audios/the-notorious-b.i.g.-juicy.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "128",
+        "title": "Big Poppa",
+        "subtitle": "The Notorious B.I.G.",
+        "audioPath": "audios/the-notorious-b.i.g.-big-poppa.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "129",
+        "title": "Hypnotize",
+        "subtitle": "The Notorious B.I.G.",
+        "audioPath": "audios/the-notorious-b.i.g.-hypnotize.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "130",
+        "title": "Gin and Juice",
+        "subtitle": "Snoop Dogg",
+        "audioPath": "audios/snoop-dogg-gin-and-juice.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "131",
+        "title": "Drop It Like It's Hot",
+        "subtitle": "Snoop Dogg",
+        "audioPath": "audios/snoop-dogg-drop-it-like-its-hot.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "132",
+        "title": "Who Am I What's My Name",
+        "subtitle": "Snoop Dogg",
+        "audioPath": "audios/snoop-dogg-who-am-i-whats-my-name.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "133",
+        "title": "Check Yo Self",
+        "subtitle": "Ice Cube",
+        "audioPath": "audios/ice-cube-check-yo-self.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "134",
+        "title": "It Was A Good Day",
+        "subtitle": "Ice Cube",
+        "audioPath": "audios/ice-cube-it-was-a-good-day.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "135",
+        "title": "You Know How We Do It",
+        "subtitle": "Ice Cube",
+        "audioPath": "audios/ice-cube-you-know-how-we-do-it.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "136",
+        "title": "Gangsta's Paradise",
+        "subtitle": "Coolio",
+        "audioPath": "audios/coolio-gangstas-paradise.mp3",
+        "posterPath": ""
     }
 ]
