@@ -1,0 +1,639 @@
+[
+    {
+        "id": "1",
+        "title": "Ajin",
+        "subtitle": "Op 1 Yoru wa Nemureru ka",
+        "audioPath": "audios/op-1-yoru-wa-nemureru-ka---ajin.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "2",
+        "title": "Ansatsu Kyoushitsu",
+        "subtitle": "OP 4 Bye Bye Yesterday",
+        "audioPath": "audios/op-4-bye-bye-yesterday---ansatsu-kyoushitsu.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "3",
+        "title": "Beastars",
+        "subtitle": "OP 1 Wild Side",
+        "audioPath": "audios/op-1-wild-side---beastars.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "4",
+        "title": "Beastars",
+        "subtitle": "OP 2 Kaibutsu",
+        "audioPath": "audios/op-2-kaibutsu---beastars.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "5",
+        "title": "Black Clover",
+        "subtitle": "OP 10 Black Catcher",
+        "audioPath": "audios/op-10-black-catcher---black-clover.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "6",
+        "title": "Black Clover",
+        "subtitle": "OP 3 Black Rover",
+        "audioPath": "audios/op-3-black-rover---black-clover.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "7",
+        "title": "Bleach",
+        "subtitle": "OP 15 Harukaze",
+        "audioPath": "audios/op-15-harukaze---bleach.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "8",
+        "title": "Bleach",
+        "subtitle": "OP 13 Ranbu No Melody",
+        "audioPath": "audios/op-13-ranbu-no-melody---bleach.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "9",
+        "title": "Boku No Hero",
+        "subtitle": "OP 1 The Day",
+        "audioPath": "audios/op-1-the-day---boku-no-hero.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "10",
+        "title": "Boku No Hero",
+        "subtitle": "OP 4 Odd Future",
+        "audioPath": "audios/op-4-odd-future---boku-no-hero.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "11",
+        "title": "Bungou Stray Dogs",
+        "subtitle": "OP 3 Setsuna no Ai",
+        "audioPath": "audios/op-3-setsuna-no-ai---bungou-stray-dogs.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "12",
+        "title": "Carole & Tuesday",
+        "subtitle": "OP 1 Kiss Me",
+        "audioPath": "audios/op-1-kiss-me---carole-&-tuesday.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "13",
+        "title": "Code Geas",
+        "subtitle": "OP 1 Colors",
+        "audioPath": "audios/op-1-colors---code-geas.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "14",
+        "title": "Cowboy Bebop",
+        "subtitle": "OP 1 Tank",
+        "audioPath": "audios/op-1-tank---cowboy-bebop.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "15",
+        "title": "Death Note",
+        "subtitle": "OP 1 The World",
+        "audioPath": "audios/op-1-the-world---death-note.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "16",
+        "title": "Death Parade",
+        "subtitle": "OP 1 Flyers",
+        "audioPath": "audios/op-1-flyers---death-parade.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "17",
+        "title": "Domestic na Kanojo",
+        "subtitle": "OP 1 Kawaki wo Ameku by Minami",
+        "audioPath": "audios/op-1-kawaki-wo-ameku-by-minami---domestic-na-kanojo.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "18",
+        "title": "Dororo",
+        "subtitle": "OP 1 Kaen",
+        "audioPath": "audios/op-1-kaen---dororo.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "19",
+        "title": "Dragon Ball GT",
+        "subtitle": "OP 1 Dan Dan Kokoro",
+        "audioPath": "audios/op-1-dan-dan-kokoro---dragon-ball-gt.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "20",
+        "title": "Durarara!!",
+        "subtitle": "OP 1 Uragiri no Yuuyake",
+        "audioPath": "audios/op-1-uragiri-no-yuuyake---durarara!!.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "21",
+        "title": "Evangelion",
+        "subtitle": "OP 1 Zankoku na Tenshi no Thesis",
+        "audioPath": "audios/op-1-zankoku-na-tenshi-no-thesis---evangelion.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "22",
+        "title": "Fairy Tail",
+        "subtitle": "OP 21 Believe In Myself",
+        "audioPath": "audios/op-21-believe-in-myself---fairy-tail.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "23",
+        "title": "Fairy Tail",
+        "subtitle": "OP 14 Yakusoku no Hi e",
+        "audioPath": "audios/op-14-yakusoku-no-hi-e---fairy-tail.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "24",
+        "title": "Fate stay night Unlimited Blade Works",
+        "subtitle": "OP 2 Brave Shine by Aimer",
+        "audioPath": "audios/op-2-brave-shine-by-aimer---fate-stay-night-unlimited-blade-works.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "25",
+        "title": "Fullmetal Alchemist Brotherhood",
+        "subtitle": "OP 5 Rain",
+        "audioPath": "audios/op-5-rain---fullmetal-alchemist-brotherhood.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "26",
+        "title": "Fullmetal Alchemist Brotherhood",
+        "subtitle": "OP 1 Again",
+        "audioPath": "audios/op-1-again---fullmetal-alchemist-brotherhood.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "27",
+        "title": "Gintama",
+        "subtitle": "OP 13 Sakura Mitsutsuki",
+        "audioPath": "audios/op-13-sakura-mitsutsuki---gintama.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "28",
+        "title": "God Eater",
+        "subtitle": "OP 1 Feed A",
+        "audioPath": "audios/op-1-feed-a---god-eater.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "29",
+        "title": "Guilty Crown",
+        "subtitle": "OP 1My Dearest",
+        "audioPath": "audios/op-1my-dearest---guilty-crown.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "30",
+        "title": "Haikyuu",
+        "subtitle": "OP 4 Fly High!",
+        "audioPath": "audios/op-4-fly-high!---haikyuu.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "31",
+        "title": "Haikyuu",
+        "subtitle": "OP 5 Hikari Are",
+        "audioPath": "audios/op-5-hikari-are---haikyuu.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "32",
+        "title": "Hunter x Hunter",
+        "subtitle": "OP 1 Departure",
+        "audioPath": "audios/op-1-departure---hunter-x-hunter.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "33",
+        "title": "Inuyashiki",
+        "subtitle": "OP My Hero",
+        "audioPath": "audios/op-my-hero---inuyashiki.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "34",
+        "title": "Jojo's",
+        "subtitle": "OP Bloody Stream",
+        "audioPath": "audios/op-bloody-stream---jojo's.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "35",
+        "title": "Jujutsu Kaisen",
+        "subtitle": "OP 1 Kaikai Kitan",
+        "audioPath": "audios/op-1-kaikai-kitan---jujutsu-kaisen.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "36",
+        "title": "Jujutsu Kaisen",
+        "subtitle": "ED LOST IN PARADISE",
+        "audioPath": "audios/ed-lost-in-paradise---jujutsu-kaisen.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "37",
+        "title": "Kaguya-sama",
+        "subtitle": "OP 2 DADDY! DADDY! DO!",
+        "audioPath": "audios/op-2-daddy!-daddy!-do!---kaguya-sama.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "38",
+        "title": "Kimetsu no Yaiba",
+        "subtitle": "OP 1 Gurenge",
+        "audioPath": "audios/op-1-gurenge---kimetsu-no-yaiba.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "39",
+        "title": "Kokkoku Opening",
+        "subtitle": "OP flashback by miyavi",
+        "audioPath": "audios/op-flashback-by-miyavi---kokkoku-opening.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "40",
+        "title": "Log Horizon",
+        "subtitle": "OP Takuma",
+        "audioPath": "audios/op-takuma---log-horizon.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "41",
+        "title": "Madoka Magica",
+        "subtitle": "OP Connect",
+        "audioPath": "audios/op-connect---madoka-magica.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "42",
+        "title": "Magi The Labyrinth of magic",
+        "subtitle": "Opening 1",
+        "audioPath": "audios/opening-1---magi-the-labyrinth-of-magic.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "43",
+        "title": "Mob Psycho 100",
+        "subtitle": "Opening 1",
+        "audioPath": "audios/opening-1---mob-psycho-100.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "44",
+        "title": "Naruto Shippuden",
+        "subtitle": "Op 3 Blue Bird",
+        "audioPath": "audios/op-3-blue-bird---naruto-shippuden.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "45",
+        "title": "Naruto Shippuden",
+        "subtitle": "OP 6 Sign",
+        "audioPath": "audios/op-6-sign---naruto-shippuden.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "46",
+        "title": "Net juu no susume",
+        "subtitle": "Opening 1",
+        "audioPath": "audios/opening-1---net-juu-no-susume.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "47",
+        "title": "No Game No Life",
+        "subtitle": "OP This Game",
+        "audioPath": "audios/op-this-game---no-game-no-life.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "48",
+        "title": "Noragami",
+        "subtitle": "Op Hello Sleepwalkers",
+        "audioPath": "audios/op-hello-sleepwalkers---noragami.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "49",
+        "title": "Noragami Aragoto",
+        "subtitle": "Op2 The Oral Cigarettes",
+        "audioPath": "audios/op2-the-oral-cigarettes---noragami-aragoto.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "50",
+        "title": "One Piece",
+        "subtitle": "Op 20 Hope",
+        "audioPath": "audios/op-20-hope---one-piece.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "51",
+        "title": "One Piece",
+        "subtitle": "Op 1 We Are",
+        "audioPath": "audios/op-1-we-are---one-piece.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "52",
+        "title": "One punch man",
+        "subtitle": "Op 1 The Hero",
+        "audioPath": "audios/op-1-the-hero---one-punch-man.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "53",
+        "title": "Overlord",
+        "subtitle": "Op 1 Clattanoia",
+        "audioPath": "audios/op-1-clattanoia---overlord.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "54",
+        "title": "Owari no seraph",
+        "subtitle": "Op SawanoHiroyuki",
+        "audioPath": "audios/op-sawanohiroyuki---owari-no-seraph.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "55",
+        "title": "Parasyte",
+        "subtitle": "Op Let me Hear",
+        "audioPath": "audios/op-let-me-hear---parasyte.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "56",
+        "title": "Pokemon",
+        "subtitle": "Op Atrapalos Ya",
+        "audioPath": "audios/op-atrapalos-ya---pokemon.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "57",
+        "title": "Pokemon Advanced",
+        "subtitle": "Op 4 Battle Frontier",
+        "audioPath": "audios/op-4-battle-frontier---pokemon-advanced.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "58",
+        "title": "Re_ Hamatora",
+        "subtitle": "Op Sen no Tsubasa",
+        "audioPath": "audios/op-sen-no-tsubasa---re_-hamatora.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "59",
+        "title": "Re_Creators",
+        "subtitle": "Op 2 sh0ut",
+        "audioPath": "audios/op-2-sh0ut---re_creators.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "60",
+        "title": "Return Of Kings",
+        "subtitle": "Op asymmetry",
+        "audioPath": "audios/op-asymmetry---return-of-kings.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "61",
+        "title": "Sailor Moon",
+        "subtitle": "Op 1 Moonlight Densetsu",
+        "audioPath": "audios/op-1-moonlight-densetsu---sailor-moon.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "62",
+        "title": "Shigatsu wa Kimi no Uso",
+        "subtitle": "Op 1 Hikaru Nara",
+        "audioPath": "audios/op-1-hikaru-nara---shigatsu-wa-kimi-no-uso.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "63",
+        "title": "Shingeki no Kyojin",
+        "subtitle": "Op 1 Guren no Yumiya",
+        "audioPath": "audios/op-1-guren-no-yumiya---shingeki-no-kyojin.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "64",
+        "title": "Shokugeki no Soma",
+        "subtitle": "Op 5 Symbol",
+        "audioPath": "audios/op-5-symbol---shokugeki-no-soma.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "65",
+        "title": "Shokugeki No Soma",
+        "subtitle": "Op 1 Kibou No Uta",
+        "audioPath": "audios/op-1-kibou-no-uta---shokugeki-no-soma.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "66",
+        "title": "Slam Dunk",
+        "subtitle": "Op 1 Kimi Ga Suki Da To Sakebita",
+        "audioPath": "audios/op-1-kimi-ga-suki-da-to-sakebita---slam-dunk.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "67",
+        "title": "Sword Art Online",
+        "subtitle": "Op 1 Crossing Field",
+        "audioPath": "audios/op-1-crossing-field---sword-art-online.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "68",
+        "title": "Sword Art Online ll",
+        "subtitle": "Op 1 Ignite",
+        "audioPath": "audios/op-1-ignite---sword-art-online-ll.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "69",
+        "title": "Terraformars",
+        "subtitle": "Op AMAZING BREAK",
+        "audioPath": "audios/op-amazing-break---terraformars.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "70",
+        "title": "The promised neverland",
+        "subtitle": "Op touch off",
+        "audioPath": "audios/op-touch-off---the-promised-neverland.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "71",
+        "title": "tokyo ghoul",
+        "subtitle": "Op 1 unravel",
+        "audioPath": "audios/op-1-unravel---tokyo-ghoul.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "72",
+        "title": "Tokyo Revengers",
+        "subtitle": "Op 1 Cry Baby",
+        "audioPath": "audios/op-1-cry-baby---tokyo-revengers.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "73",
+        "title": "Uso No Hibana",
+        "subtitle": "Op 96Neko",
+        "audioPath": "audios/op-96neko---uso-no-hibana.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "74",
+        "title": "Vinland saga",
+        "subtitle": "Op 1 Survive Said the Prophet",
+        "audioPath": "audios/op-1-survive-said-the-prophet---vinland-saga.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "75",
+        "title": "Violet Evergarden",
+        "subtitle": "Op 1 Sincerely",
+        "audioPath": "audios/op-1-sincerely---violet-evergarden.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "76",
+        "title": "Yowamushi Pedal",
+        "subtitle": "Op 2 glory line",
+        "audioPath": "audios/op-2-glory-line---yowamushi-pedal.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "77",
+        "title": "Yuri On Ice!!",
+        "subtitle": "Op 1 History Maker",
+        "audioPath": "audios/op-1-history-maker---yuri-on-ice!!.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "78",
+        "title": "Boku No Kokoro",
+        "subtitle": "Boku Wa",
+        "audioPath": "audios/boku-wa---boku-no-kokoro.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "79",
+        "title": "Blue Lock",
+        "subtitle": "Judgement",
+        "audioPath": "audios/judgement---blue-lock.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "80",
+        "title": "Dr Stone",
+        "subtitle": "Haruka",
+        "audioPath": "audios/haruka---dr-stone.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "81",
+        "title": "Bungo Stray Dogs",
+        "subtitle": "Tetsu no Ori",
+        "audioPath": "audios/tetsu-no-ori---bungo-stray-dogs.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "82",
+        "title": "Goblin Slayer",
+        "subtitle": "Entertainment",
+        "audioPath": "audios/entertainment---goblin-slayer.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "83",
+        "title": "Attack On Titan",
+        "subtitle": "Saigo No Kyojin",
+        "audioPath": "audios/saigo-no-kyojin---attack-on-titan.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "84",
+        "title": "My Hero Academy",
+        "subtitle": "Bokurano",
+        "audioPath": "audios/bokurano---my-hero-academy.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "85",
+        "title": "Nier automata",
+        "subtitle": "escalate",
+        "audioPath": "audios/escalate---nier-automata.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "86",
+        "title": "One Piece",
+        "subtitle": "saikou toutatsuten",
+        "audioPath": "audios/saikou-toutatsuten---one-piece.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "87",
+        "title": "One Piece",
+        "subtitle": "Uuuuus",
+        "audioPath": "audios/uuuuus---one-piece.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "88",
+        "title": "Jujutsu kaisen",
+        "subtitle": "Ao no sumika",
+        "audioPath": "audios/ao-no-sumika---jujutsu-kaisen.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "89",
+        "title": "Kimetsu no Yaiba",
+        "subtitle": "Kizuna no Kiseki",
+        "audioPath": "audios/kizuna-no-kiseki---kimetsu-no-yaiba.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "90",
+        "title": "Mashle",
+        "subtitle": "Bling Bang Bang Born",
+        "audioPath": "audios/bling-bang-bang-born---mashle.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "91",
+        "title": "Mushoku Tensei",
+        "subtitle": "Spiral",
+        "audioPath": "audios/spiral---mushoku-tensei.mp3",
+        "posterPath": ""
+    }
+]
