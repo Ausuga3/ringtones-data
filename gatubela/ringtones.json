@@ -1,0 +1,212 @@
+[
+    {
+        "id": "1",
+        "title": "Gatubela",
+        "subtitle": "00:00:38",
+        "audioPath": "audios/000038---gatubela.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "2",
+        "title": "Gatubela 2",
+        "subtitle": "00:00:41",
+        "audioPath": "audios/000041---gatubela-2.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "3",
+        "title": "Gatubela 3",
+        "subtitle": "00:00:30",
+        "audioPath": "audios/000030---gatubela-3.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "4",
+        "title": "A Ella",
+        "subtitle": "00:00:27",
+        "audioPath": "audios/000027---a-ella.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "5",
+        "title": "Bichota",
+        "subtitle": "00:00:02",
+        "audioPath": "audios/000002---bichota.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "6",
+        "title": "Bichota",
+        "subtitle": "00:00:44",
+        "audioPath": "audios/000044---bichota.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "7",
+        "title": "Caramelo",
+        "subtitle": "00:00:19",
+        "audioPath": "audios/000019---caramelo.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "8",
+        "title": "China",
+        "subtitle": "00:00:41",
+        "audioPath": "audios/000041---china.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "9",
+        "title": "200 Copas",
+        "subtitle": "00:00:51",
+        "audioPath": "audios/000051---200-copas.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "10",
+        "title": "Don't Be Shy",
+        "subtitle": "00:00:38",
+        "audioPath": "audios/000038---don't-be-shy.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "11",
+        "title": "Don't Be Shy 2",
+        "subtitle": "00:00:47",
+        "audioPath": "audios/000047---don't-be-shy-2.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "12",
+        "title": "Mami Te Estan Llamando",
+        "subtitle": "00:00:04",
+        "audioPath": "audios/000004---mami-te-estan-llamando.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "13",
+        "title": "Mamiii",
+        "subtitle": "00:01:00",
+        "audioPath": "audios/000100---mamiii.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "14",
+        "title": "Provenza",
+        "subtitle": "00:00:51",
+        "audioPath": "audios/000051---provenza.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "15",
+        "title": "El Makinon",
+        "subtitle": "00:00:44",
+        "audioPath": "audios/000044---el-makinon.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "16",
+        "title": "El Makinon 2",
+        "subtitle": "00:00:41",
+        "audioPath": "audios/000041---el-makinon-2.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "17",
+        "title": "Tusa",
+        "subtitle": "00:00:39",
+        "audioPath": "audios/000039---tusa.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "18",
+        "title": "Tusa 2",
+        "subtitle": "00:00:46",
+        "audioPath": "audios/000046---tusa-2.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "19",
+        "title": "Tusa 3",
+        "subtitle": "00:00:29",
+        "audioPath": "audios/000029---tusa-3.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "20",
+        "title": "No Seas Timido",
+        "subtitle": "00:00:29",
+        "audioPath": "audios/000029---no-seas-timido.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "21",
+        "title": "Creeme",
+        "subtitle": "00:00:27",
+        "audioPath": "audios/000027---creeme.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "22",
+        "title": "Culpables",
+        "subtitle": "00:00:30",
+        "audioPath": "audios/000030---culpables.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "23",
+        "title": "Ocean",
+        "subtitle": "00:00:28",
+        "audioPath": "audios/000028---ocean.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "24",
+        "title": "Mi Cama",
+        "subtitle": "00:00:30",
+        "audioPath": "audios/000030---mi-cama.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "25",
+        "title": "Pineapple",
+        "subtitle": "00:00:30",
+        "audioPath": "audios/000030---pineapple.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "26",
+        "title": "Punto G",
+        "subtitle": "00:00:30",
+        "audioPath": "audios/000030---punto-g.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "27",
+        "title": "Quien Quien Quien",
+        "subtitle": "00:00:07",
+        "audioPath": "audios/000007---quien-quien-quien.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "28",
+        "title": "Sin Corazon",
+        "subtitle": "00:00:19",
+        "audioPath": "audios/000019---sin-corazon.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "29",
+        "title": "Ya No Te Creo",
+        "subtitle": "00:00:30",
+        "audioPath": "audios/000030---ya-no-te-creo.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "30",
+        "title": "El Barco",
+        "subtitle": "00:00:50",
+        "audioPath": "audios/000050---el-barco.mp3",
+        "posterPath": ""
+    }
+]
