@@ -1,0 +1,366 @@
+[
+    {
+        "id": "1",
+        "title": "Los Simpson",
+        "subtitle": "Bart Laugh",
+        "audioPath": "audios/bart-laugh---los-simpson.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "2",
+        "title": "Batman",
+        "subtitle": "Music",
+        "audioPath": "audios/music---batman.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "3",
+        "title": "Hotel Transilvania",
+        "subtitle": "bla bla bla",
+        "audioPath": "audios/bla-bla-bla---hotel-transilvania.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "4",
+        "title": "Hotel Transilvania",
+        "subtitle": "ble ble ble",
+        "audioPath": "audios/ble-ble-ble---hotel-transilvania.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "5",
+        "title": "Bob Esponja",
+        "subtitle": "Bob a Patricio",
+        "audioPath": "audios/bob-a-patricio---bob-esponja.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "6",
+        "title": "Bob Esponja",
+        "subtitle": "Op",
+        "audioPath": "audios/op---bob-esponja.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "7",
+        "title": "Bugs Bunny",
+        "subtitle": "All Out Job",
+        "audioPath": "audios/all-out-job---bugs-bunny.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "8",
+        "title": "Los Simpson",
+        "subtitle": "Caramba",
+        "audioPath": "audios/caramba---los-simpson.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "9",
+        "title": "Cartoon",
+        "subtitle": "Ringtone",
+        "audioPath": "audios/ringtone---cartoon.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "10",
+        "title": "Toy Story",
+        "subtitle": "Al Infinito",
+        "audioPath": "audios/al-infinito---toy-story.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "11",
+        "title": "Los Simpson",
+        "subtitle": "De Pelos",
+        "audioPath": "audios/de-pelos---los-simpson.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "12",
+        "title": "Toy Story",
+        "subtitle": "Donde Esta Tu Honor",
+        "audioPath": "audios/donde-esta-tu-honor---toy-story.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "13",
+        "title": "Cartoon Network",
+        "subtitle": "Edde",
+        "audioPath": "audios/edde---cartoon-network.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "14",
+        "title": "Rick y Morty",
+        "subtitle": "Hey Morty",
+        "audioPath": "audios/hey-morty---rick-y-morty.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "15",
+        "title": "Los Simpson",
+        "subtitle": "Bar De Moe",
+        "audioPath": "audios/bar-de-moe---los-simpson.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "16",
+        "title": "Los Simpson",
+        "subtitle": "Homero llama a Bart",
+        "audioPath": "audios/homero-llama-a-bart---los-simpson.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "17",
+        "title": "Los Simpson",
+        "subtitle": "Homero",
+        "audioPath": "audios/homero---los-simpson.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "18",
+        "title": "Batman",
+        "subtitle": "I am Batman",
+        "audioPath": "audios/i-am-batman---batman.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "19",
+        "title": "La Pantera Rosa",
+        "subtitle": "Song",
+        "audioPath": "audios/song---la-pantera-rosa.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "20",
+        "title": "Looney Tunes",
+        "subtitle": "Song",
+        "audioPath": "audios/song---looney-tunes.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "21",
+        "title": "Looney Tunes",
+        "subtitle": "End",
+        "audioPath": "audios/end---looney-tunes.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "22",
+        "title": "Looney Tunes",
+        "subtitle": "Meep Meep",
+        "audioPath": "audios/meep-meep---looney-tunes.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "23",
+        "title": "Los Simpson",
+        "subtitle": "Msj",
+        "audioPath": "audios/msj---los-simpson.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "24",
+        "title": "Minions",
+        "subtitle": "I swear",
+        "audioPath": "audios/i-swear---minions.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "25",
+        "title": "Minions",
+        "subtitle": "Papoi",
+        "audioPath": "audios/papoi---minions.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "26",
+        "title": "Bob Esponja",
+        "subtitle": "Patricio a Bob Esponja",
+        "audioPath": "audios/patricio-a-bob-esponja---bob-esponja.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "27",
+        "title": "Picapiedras",
+        "subtitle": "Song",
+        "audioPath": "audios/song---picapiedras.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "28",
+        "title": "Pokemon",
+        "subtitle": "Pika pika",
+        "audioPath": "audios/pika-pika---pokemon.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "29",
+        "title": "Pokemon",
+        "subtitle": "Theme Song",
+        "audioPath": "audios/theme-song---pokemon.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "30",
+        "title": "Sherk",
+        "subtitle": "Galletita",
+        "audioPath": "audios/galletita---sherk.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "31",
+        "title": "Rick y Morty",
+        "subtitle": "Song",
+        "audioPath": "audios/song---rick-y-morty.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "32",
+        "title": "Sherk",
+        "subtitle": "San Pedro",
+        "audioPath": "audios/san-pedro---sherk.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "33",
+        "title": "Sherk",
+        "subtitle": "Burro",
+        "audioPath": "audios/burro---sherk.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "34",
+        "title": "Sherk",
+        "subtitle": "Arre",
+        "audioPath": "audios/arre---sherk.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "35",
+        "title": "Sonic",
+        "subtitle": "Oro",
+        "audioPath": "audios/oro---sonic.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "36",
+        "title": "Bob Esponja",
+        "subtitle": "Song",
+        "audioPath": "audios/song---bob-esponja.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "37",
+        "title": "Toy Story",
+        "subtitle": "Woody",
+        "audioPath": "audios/woody---toy-story.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "38",
+        "title": "Pajaro Loco",
+        "subtitle": "Risa",
+        "audioPath": "audios/risa---pajaro-loco.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "39",
+        "title": "Rick y Morty",
+        "subtitle": "wubalubadubdub",
+        "audioPath": "audios/wubalubadubdub---rick-y-morty.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "40",
+        "title": "Blanca Nieves",
+        "subtitle": "Espejo",
+        "audioPath": "audios/espejo---blanca-nieves.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "41",
+        "title": "Up",
+        "subtitle": "Cansado",
+        "audioPath": "audios/cansado---up.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "42",
+        "title": "Donald",
+        "subtitle": "Llamada",
+        "audioPath": "audios/llamada---donald.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "43",
+        "title": "Mulan",
+        "subtitle": "Make a man",
+        "audioPath": "audios/make-a-man---mulan.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "44",
+        "title": "Mickey",
+        "subtitle": "sound",
+        "audioPath": "audios/sound---mickey.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "45",
+        "title": "Mickey",
+        "subtitle": "Notifi",
+        "audioPath": "audios/notifi---mickey.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "46",
+        "title": "Donald",
+        "subtitle": "Alarma",
+        "audioPath": "audios/alarma---donald.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "47",
+        "title": "Donald",
+        "subtitle": "Msj",
+        "audioPath": "audios/msj---donald.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "48",
+        "title": "Up",
+        "subtitle": "Presentacion",
+        "audioPath": "audios/presentacion---up.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "49",
+        "title": "Cenicienta",
+        "subtitle": "Pronto",
+        "audioPath": "audios/pronto---cenicienta.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "50",
+        "title": "Up",
+        "subtitle": "presentation",
+        "audioPath": "audios/presentation---up.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "51",
+        "title": "Thundercats",
+        "subtitle": "Intro",
+        "audioPath": "audios/intro---thundercats.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "52",
+        "title": "Thundercats",
+        "subtitle": "roar end",
+        "audioPath": "audios/roar-end---thundercats.mp3",
+        "posterPath": ""
+    }
+]
