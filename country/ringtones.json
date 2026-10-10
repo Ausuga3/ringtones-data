@@ -1,0 +1,702 @@
+[
+    {
+        "id": "1",
+        "title": "Thinkin' Bout Me",
+        "subtitle": "Morgan Wallen",
+        "audioPath": "audios/morgan-wallen-thinkin-bout-me.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "2",
+        "title": "Last Night",
+        "subtitle": "Morgan Wallen",
+        "audioPath": "audios/morgan-wallen-last-night.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "3",
+        "title": "Whiskey Glasses",
+        "subtitle": "Morgan Wallen",
+        "audioPath": "audios/morgan-wallen-whiskey-glasses.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "4",
+        "title": "Fast Car",
+        "subtitle": "Luke Combs",
+        "audioPath": "audios/luke-combs-fast-car.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "5",
+        "title": "Beautiful Crazy",
+        "subtitle": "Luke Combs",
+        "audioPath": "audios/luke-combs-beautiful-crazy.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "6",
+        "title": "When It Rains It Pours",
+        "subtitle": "Luke Combs",
+        "audioPath": "audios/luke-combs-when-it-rains-it-pours.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "7",
+        "title": "I Remember Everything",
+        "subtitle": "Zach Bryan",
+        "audioPath": "audios/zach-bryan-i-remember-everything.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "8",
+        "title": "Something in the Orange",
+        "subtitle": "Zach Bryan",
+        "audioPath": "audios/zach-bryan-something-in-the-orange.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "9",
+        "title": "Heading South",
+        "subtitle": "Zach Bryan",
+        "audioPath": "audios/zach-bryan-heading-south.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "10",
+        "title": "You Should Probably Leave",
+        "subtitle": "Chris Stapleton",
+        "audioPath": "audios/chris-stapleton-you-should-probably-leave.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "11",
+        "title": "Tennessee Whiskey",
+        "subtitle": "Chris Stapleton",
+        "audioPath": "audios/chris-stapleton-tennessee-whiskey.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "12",
+        "title": "Broken Halos",
+        "subtitle": "Chris Stapleton",
+        "audioPath": "audios/chris-stapleton-broken-halos.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "13",
+        "title": "Amarillo By Morning",
+        "subtitle": "George Strait",
+        "audioPath": "audios/george-strait-amarillo-by-morning.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "14",
+        "title": "The Chair",
+        "subtitle": "George Strait",
+        "audioPath": "audios/george-strait-the-chair.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "15",
+        "title": "Check Yes Or No",
+        "subtitle": "George Strait",
+        "audioPath": "audios/george-strait-check-yes-or-no.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "16",
+        "title": "Chattahoochee",
+        "subtitle": "Alan Jackson",
+        "audioPath": "audios/alan-jackson-chattahoochee.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "17",
+        "title": "Remember When",
+        "subtitle": "Alan Jackson",
+        "audioPath": "audios/alan-jackson-remember-when.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "18",
+        "title": "It's Five O'Clock Somewhere",
+        "subtitle": "Alan Jackson",
+        "audioPath": "audios/alan-jackson-its-five-oclock-somewhere.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "19",
+        "title": "Friends in Low Places",
+        "subtitle": "Garth Brooks",
+        "audioPath": "audios/garth-brooks-friends-in-low-places.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "20",
+        "title": "The Dance",
+        "subtitle": "Garth Brooks",
+        "audioPath": "audios/garth-brooks-the-dance.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "21",
+        "title": "The Thunder Rolls",
+        "subtitle": "Garth Brooks",
+        "audioPath": "audios/garth-brooks-the-thunder-rolls.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "22",
+        "title": "Ring of Fire",
+        "subtitle": "Johnny Cash",
+        "audioPath": "audios/johnny-cash-ring-of-fire.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "23",
+        "title": "Folsom Prison Blues",
+        "subtitle": "Johnny Cash",
+        "audioPath": "audios/johnny-cash-folsom-prison-blues.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "24",
+        "title": "I Walk the Line",
+        "subtitle": "Johnny Cash",
+        "audioPath": "audios/johnny-cash-i-walk-the-line.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "25",
+        "title": "On the Road Again",
+        "subtitle": "Willie Nelson",
+        "audioPath": "audios/willie-nelson-on-the-road-again.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "26",
+        "title": "Always on My Mind",
+        "subtitle": "Willie Nelson",
+        "audioPath": "audios/willie-nelson-always-on-my-mind.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "27",
+        "title": "Blue Eyes Crying In The Rain",
+        "subtitle": "Willie Nelson",
+        "audioPath": "audios/willie-nelson-blue-eyes-crying-in-the-rain.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "28",
+        "title": "Mammas Don't Let Your Babies Grow Up to Be Cowboys",
+        "subtitle": "Waylon Jennings",
+        "audioPath": "audios/waylon-jennings-mammas-dont-let-your-babies-grow-up-to-be-cowboys.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "29",
+        "title": "Good Ol' Boys",
+        "subtitle": "Waylon Jennings",
+        "audioPath": "audios/waylon-jennings-good-ol-boys.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "30",
+        "title": "Lonesome, On'ry and Mean",
+        "subtitle": "Waylon Jennings",
+        "audioPath": "audios/waylon-jennings-lonesome-onry-and-mean.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "31",
+        "title": "9 to 5",
+        "subtitle": "Dolly Parton",
+        "audioPath": "audios/dolly-parton-9-to-5.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "32",
+        "title": "I Will Always Love You",
+        "subtitle": "Dolly Parton",
+        "audioPath": "audios/dolly-parton-i-will-always-love-you.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "33",
+        "title": "Jolene",
+        "subtitle": "Dolly Parton",
+        "audioPath": "audios/dolly-parton-jolene.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "34",
+        "title": "Fancy",
+        "subtitle": "Reba McEntire",
+        "audioPath": "audios/reba-mcentire-fancy.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "35",
+        "title": "The Night the Lights Went Out in Georgia",
+        "subtitle": "Reba McEntire",
+        "audioPath": "audios/reba-mcentire-the-night-the-lights-went-out-in-georgia.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "36",
+        "title": "Consider Me Gone",
+        "subtitle": "Reba McEntire",
+        "audioPath": "audios/reba-mcentire-consider-me-gone.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "37",
+        "title": "Gunpowder & Lead",
+        "subtitle": "Miranda Lambert",
+        "audioPath": "audios/miranda-lambert-gunpowder-lead.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "38",
+        "title": "The House That Built Me",
+        "subtitle": "Miranda Lambert",
+        "audioPath": "audios/miranda-lambert-the-house-that-built-me.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "39",
+        "title": "Bluebird",
+        "subtitle": "Miranda Lambert",
+        "audioPath": "audios/miranda-lambert-bluebird.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "40",
+        "title": "Before He Cheats",
+        "subtitle": "Carrie Underwood",
+        "audioPath": "audios/carrie-underwood-before-he-cheats.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "41",
+        "title": "Jesus, Take The Wheel",
+        "subtitle": "Carrie Underwood",
+        "audioPath": "audios/carrie-underwood-jesus-take-the-wheel.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "42",
+        "title": "God's Country",
+        "subtitle": "Blake Shelton",
+        "audioPath": "audios/blake-shelton-gods-country.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "43",
+        "title": "Austin",
+        "subtitle": "Blake Shelton",
+        "audioPath": "audios/blake-shelton-austin.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "44",
+        "title": "Blown Away",
+        "subtitle": "Carrie Underwood",
+        "audioPath": "audios/carrie-underwood-blown-away.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "45",
+        "title": "Ol' Red",
+        "subtitle": "Blake Shelton",
+        "audioPath": "audios/blake-shelton-ol-red.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "46",
+        "title": "Courtesy Of The Red, White And Blue",
+        "subtitle": "Toby Keith",
+        "audioPath": "audios/toby-keith-courtesy-of-the-red-white-and-blue.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "47",
+        "title": "Should've Been A Cowboy",
+        "subtitle": "Toby Keith",
+        "audioPath": "audios/toby-keith-shouldve-been-a-cowboy.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "48",
+        "title": "How Do You Like Me Now?!",
+        "subtitle": "Toby Keith",
+        "audioPath": "audios/toby-keith-how-do-you-like-me-now.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "49",
+        "title": "No Shoes, No Shirt, No Problems",
+        "subtitle": "Kenny Chesney",
+        "audioPath": "audios/kenny-chesney-no-shoes-no-shirt-no-problems.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "50",
+        "title": "American Kids",
+        "subtitle": "Kenny Chesney",
+        "audioPath": "audios/kenny-chesney-american-kids.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "51",
+        "title": "When the Sun Goes Down",
+        "subtitle": "Kenny Chesney",
+        "audioPath": "audios/kenny-chesney-when-the-sun-goes-down.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "52",
+        "title": "Live Like You Were Dying",
+        "subtitle": "Tim McGraw",
+        "audioPath": "audios/tim-mcgraw-live-like-you-were-dying.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "53",
+        "title": "It's Your Love",
+        "subtitle": "Tim McGraw",
+        "audioPath": "audios/tim-mcgraw-its-your-love.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "54",
+        "title": "Don't Take The Girl",
+        "subtitle": "Tim McGraw",
+        "audioPath": "audios/tim-mcgraw-dont-take-the-girl.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "55",
+        "title": "Mud on the Tires",
+        "subtitle": "Brad Paisley",
+        "audioPath": "audios/brad-paisley-mud-on-the-tires.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "56",
+        "title": "I'm Gonna Miss Her",
+        "subtitle": "Brad Paisley",
+        "audioPath": "audios/brad-paisley-im-gonna-miss-her.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "57",
+        "title": "Whiskey Lullaby",
+        "subtitle": "Brad Paisley",
+        "audioPath": "audios/brad-paisley-whiskey-lullaby.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "58",
+        "title": "Springsteen",
+        "subtitle": "Eric Church",
+        "audioPath": "audios/eric-church-springsteen.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "59",
+        "title": "Talladega",
+        "subtitle": "Eric Church",
+        "audioPath": "audios/eric-church-talladega.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "60",
+        "title": "Drunk On A Plane",
+        "subtitle": "Dierks Bentley",
+        "audioPath": "audios/dierks-bentley-drunk-on-a-plane.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "61",
+        "title": "Somewhere On A Beach",
+        "subtitle": "Dierks Bentley",
+        "audioPath": "audios/dierks-bentley-somewhere-on-a-beach.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "62",
+        "title": "'Til You Can't",
+        "subtitle": "Cody Johnson",
+        "audioPath": "audios/cody-johnson-til-you-cant.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "63",
+        "title": "Dear Rodeo",
+        "subtitle": "Cody Johnson",
+        "audioPath": "audios/cody-johnson-dear-rodeo.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "64",
+        "title": "Dirt On My Boots",
+        "subtitle": "Jon Pardi",
+        "audioPath": "audios/jon-pardi-dirt-on-my-boots.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "65",
+        "title": "Drink In My Hand",
+        "subtitle": "Eric Church",
+        "audioPath": "audios/eric-church-drink-in-my-hand.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "66",
+        "title": "The Painter",
+        "subtitle": "Cody Johnson",
+        "audioPath": "audios/cody-johnson-the-painter.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "67",
+        "title": "Feathered Indians",
+        "subtitle": "Tyler Childers",
+        "audioPath": "audios/tyler-childers-feathered-indians.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "68",
+        "title": "Lady May",
+        "subtitle": "Tyler Childers",
+        "audioPath": "audios/tyler-childers-lady-may.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "69",
+        "title": "All Your'n",
+        "subtitle": "Tyler Childers",
+        "audioPath": "audios/tyler-childers-all-yourn.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "70",
+        "title": "What Was I Thinkin'",
+        "subtitle": "Dierks Bentley",
+        "audioPath": "audios/dierks-bentley-what-was-i-thinkin.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "71",
+        "title": "Head Over Boots",
+        "subtitle": "Jon Pardi",
+        "audioPath": "audios/jon-pardi-head-over-boots.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "72",
+        "title": "The Devil Wears a Suit and Tie",
+        "subtitle": "Colter Wall",
+        "audioPath": "audios/colter-wall-the-devil-wears-a-suit-and-tie.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "73",
+        "title": "Kate McCannon",
+        "subtitle": "Colter Wall",
+        "audioPath": "audios/colter-wall-kate-mccannon.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "74",
+        "title": "Sleeping on the Blacktop",
+        "subtitle": "Colter Wall",
+        "audioPath": "audios/colter-wall-sleeping-on-the-blacktop.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "75",
+        "title": "Heartache Medication",
+        "subtitle": "Jon Pardi",
+        "audioPath": "audios/jon-pardi-heartache-medication.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "76",
+        "title": "Turtles All The Way Down",
+        "subtitle": "Sturgill Simpson",
+        "audioPath": "audios/sturgill-simpson-turtles-all-the-way-down.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "77",
+        "title": "Long White Line",
+        "subtitle": "Sturgill Simpson",
+        "audioPath": "audios/sturgill-simpson-long-white-line.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "78",
+        "title": "You Can Have the Crown",
+        "subtitle": "Sturgill Simpson",
+        "audioPath": "audios/sturgill-simpson-you-can-have-the-crown.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "79",
+        "title": "My Kinda Party",
+        "subtitle": "Jason Aldean",
+        "audioPath": "audios/jason-aldean-my-kinda-party.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "80",
+        "title": "Watermelon Moonshine",
+        "subtitle": "Lainey Wilson",
+        "audioPath": "audios/lainey-wilson-watermelon-moonshine.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "81",
+        "title": "She's Country",
+        "subtitle": "Jason Aldean",
+        "audioPath": "audios/jason-aldean-shes-country.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "82",
+        "title": "Heart Like A Truck",
+        "subtitle": "Lainey Wilson",
+        "audioPath": "audios/lainey-wilson-heart-like-a-truck.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "83",
+        "title": "Dirt Road Anthem",
+        "subtitle": "Jason Aldean",
+        "audioPath": "audios/jason-aldean-dirt-road-anthem.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "84",
+        "title": "Religiously",
+        "subtitle": "Bailey Zimmerman",
+        "audioPath": "audios/bailey-zimmerman-religiously.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "85",
+        "title": "Rock and A Hard Place",
+        "subtitle": "Bailey Zimmerman",
+        "audioPath": "audios/bailey-zimmerman-rock-and-a-hard-place.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "86",
+        "title": "Need A Favor",
+        "subtitle": "Jelly Roll",
+        "audioPath": "audios/jelly-roll-need-a-favor.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "87",
+        "title": "Wildflowers and Wild Horses",
+        "subtitle": "Lainey Wilson",
+        "audioPath": "audios/lainey-wilson-wildflowers-and-wild-horses.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "88",
+        "title": "Son Of A Sinner",
+        "subtitle": "Jelly Roll",
+        "audioPath": "audios/jelly-roll-son-of-a-sinner.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "89",
+        "title": "Save Me",
+        "subtitle": "Jelly Roll",
+        "audioPath": "audios/jelly-roll-save-me.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "90",
+        "title": "Fall In Love",
+        "subtitle": "Bailey Zimmerman",
+        "audioPath": "audios/bailey-zimmerman-fall-in-love.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "91",
+        "title": "Different 'Round Here",
+        "subtitle": "Riley Green",
+        "audioPath": "audios/riley-green-different-round-here.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "92",
+        "title": "Wait In The Truck",
+        "subtitle": "Hardy",
+        "audioPath": "audios/hardy-wait-in-the-truck.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "93",
+        "title": "Truck Bed",
+        "subtitle": "Hardy",
+        "audioPath": "audios/hardy-truck-bed.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "94",
+        "title": "I Wish Grandpas Never Died",
+        "subtitle": "Riley Green",
+        "audioPath": "audios/riley-green-i-wish-grandpas-never-died.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "95",
+        "title": "One Beer",
+        "subtitle": "Hardy",
+        "audioPath": "audios/hardy-one-beer.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "96",
+        "title": "Boot Scootin' Boogie",
+        "subtitle": "Brooks & Dunn",
+        "audioPath": "audios/brooks-dunn-boot-scootin-boogie.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "97",
+        "title": "There Was This Girl",
+        "subtitle": "Riley Green",
+        "audioPath": "audios/riley-green-there-was-this-girl.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "98",
+        "title": "Family Tradition",
+        "subtitle": "Hank Williams Jr.",
+        "audioPath": "audios/hank-williams-jr.-family-tradition.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "99",
+        "title": "Neon Moon",
+        "subtitle": "Brooks & Dunn",
+        "audioPath": "audios/brooks-dunn-neon-moon.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "100",
+        "title": "Red Dirt Road",
+        "subtitle": "Brooks & Dunn",
+        "audioPath": "audios/brooks-dunn-red-dirt-road.mp3",
+        "posterPath": ""
+    }
+]
