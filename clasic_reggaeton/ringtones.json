@@ -1,0 +1,275 @@
+[
+    {
+        "id": "1",
+        "title": "Gasolina",
+        "subtitle": "Daddy Yankee",
+        "audioPath": "audios/daddy-yankee-gasolina.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "2",
+        "title": "Dale Don Dale",
+        "subtitle": "Don Omar",
+        "audioPath": "audios/don-omar-dale-don-dale.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "3",
+        "title": "Rakata",
+        "subtitle": "Wisin & Yandel",
+        "audioPath": "audios/wisin-yandel-rakata.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "4",
+        "title": "Pa' Que Retozen",
+        "subtitle": "Tego Calderón",
+        "audioPath": "audios/tego-calderon-pa-que-retozen.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "5",
+        "title": "Baila Morena",
+        "subtitle": "Hector El Father",
+        "audioPath": "audios/hector-el-father-baila-morena.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "6",
+        "title": "Yo Voy",
+        "subtitle": "Zion & Lennox",
+        "audioPath": "audios/zion-lennox-yo-voy.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "7",
+        "title": "Mayor Que Yo",
+        "subtitle": "Luny Tunes",
+        "audioPath": "audios/luny-tunes-mayor-que-yo.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "8",
+        "title": "Quiero Bailar",
+        "subtitle": "Ivy Queen",
+        "audioPath": "audios/ivy-queen-quiero-bailar.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "9",
+        "title": "Dile",
+        "subtitle": "Don Omar",
+        "audioPath": "audios/don-omar-dile.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "10",
+        "title": "Caile",
+        "subtitle": "Tito El Bambino",
+        "audioPath": "audios/tito-el-bambino-caile.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "11",
+        "title": "Lo Que Pasó, Pasó",
+        "subtitle": "Daddy Yankee",
+        "audioPath": "audios/daddy-yankee-lo-que-paso-paso.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "12",
+        "title": "Pam Pam",
+        "subtitle": "Wisin & Yandel",
+        "audioPath": "audios/wisin-yandel-pam-pam.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "13",
+        "title": "Atrévete-Te-Te",
+        "subtitle": "Calle 13",
+        "audioPath": "audios/calle-13-atrevete-te-te.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "14",
+        "title": "5 Letras",
+        "subtitle": "Alexis & Fido",
+        "audioPath": "audios/alexis-fido-5-letras.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "15",
+        "title": "Guatauba",
+        "subtitle": "Plan B",
+        "audioPath": "audios/plan-b-guatauba.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "16",
+        "title": "Gata Fiera",
+        "subtitle": "Trebol Clan",
+        "audioPath": "audios/trebol-clan-gata-fiera.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "17",
+        "title": "Pobre Diabla",
+        "subtitle": "Don Omar",
+        "audioPath": "audios/don-omar-pobre-diabla.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "18",
+        "title": "Rompe",
+        "subtitle": "Daddy Yankee",
+        "audioPath": "audios/daddy-yankee-rompe.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "19",
+        "title": "Felina",
+        "subtitle": "Hector & Tito",
+        "audioPath": "audios/hector-tito-felina.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "20",
+        "title": "Llamé Pa' Verte",
+        "subtitle": "Wisin & Yandel",
+        "audioPath": "audios/wisin-yandel-llame-pa-verte.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "21",
+        "title": "Zun Da Da",
+        "subtitle": "Zion",
+        "audioPath": "audios/zion-zun-da-da.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "22",
+        "title": "Punto y Aparte",
+        "subtitle": "Tego Calderón",
+        "audioPath": "audios/tego-calderon-punto-y-aparte.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "23",
+        "title": "Mi Cama Huele A Ti",
+        "subtitle": "Tito El Bambino",
+        "audioPath": "audios/tito-el-bambino-mi-cama-huele-a-ti.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "24",
+        "title": "Ven Bailalo",
+        "subtitle": "Angel & Khriz",
+        "audioPath": "audios/angel-khriz-ven-bailalo.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "25",
+        "title": "Down",
+        "subtitle": "Rakim & Ken-Y",
+        "audioPath": "audios/rakim-ken-y-down.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "26",
+        "title": "Ella Me Levantó",
+        "subtitle": "Daddy Yankee",
+        "audioPath": "audios/daddy-yankee-ella-me-levanto.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "27",
+        "title": "Pegao",
+        "subtitle": "Wisin & Yandel",
+        "audioPath": "audios/wisin-yandel-pegao.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "28",
+        "title": "Salió El Sol",
+        "subtitle": "Don Omar",
+        "audioPath": "audios/don-omar-salio-el-sol.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "29",
+        "title": "Sola",
+        "subtitle": "Hector El Father",
+        "audioPath": "audios/hector-el-father-sola.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "30",
+        "title": "Frikitona",
+        "subtitle": "Plan B",
+        "audioPath": "audios/plan-b-frikitona.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "31",
+        "title": "Aparentemente",
+        "subtitle": "Yaga & Mackie",
+        "audioPath": "audios/yaga-mackie-aparentemente.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "32",
+        "title": "El Doctorado",
+        "subtitle": "Tony Dize",
+        "audioPath": "audios/tony-dize-el-doctorado.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "33",
+        "title": "Eso Ehh...",
+        "subtitle": "Alexis & Fido",
+        "audioPath": "audios/alexis-fido-eso-ehh....mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "34",
+        "title": "No Te Veo",
+        "subtitle": "Jowell & Randy",
+        "audioPath": "audios/jowell-randy-no-te-veo.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "35",
+        "title": "Tu Te Imaginas",
+        "subtitle": "De La Ghetto",
+        "audioPath": "audios/de-la-ghetto-tu-te-imaginas.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "36",
+        "title": "Llamado De Emergencia",
+        "subtitle": "Daddy Yankee",
+        "audioPath": "audios/daddy-yankee-llamado-de-emergencia.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "37",
+        "title": "Virtual Diva",
+        "subtitle": "Don Omar",
+        "audioPath": "audios/don-omar-virtual-diva.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "38",
+        "title": "Abusadora",
+        "subtitle": "Wisin & Yandel",
+        "audioPath": "audios/wisin-yandel-abusadora.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "39",
+        "title": "Pasarela",
+        "subtitle": "Ñejo & Dalmata",
+        "audioPath": "audios/nejo-dalmata-pasarela.mp3",
+        "posterPath": ""
+    }
+]
