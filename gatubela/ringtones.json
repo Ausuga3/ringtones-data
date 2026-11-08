@@ -208,5 +208,271 @@
         "subtitle": "00:00:50",
         "audioPath": "audios/000050---el-barco.mp3",
         "posterPath": ""
+    },
+    {
+        "id": "31",
+        "title": "MI EX TENÍA RAZÓN",
+        "subtitle": "Karol G",
+        "audioPath": "audios/karol-g-mi-ex-tenia-razon.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "32",
+        "title": "QLONA",
+        "subtitle": "Karol G, Peso Pluma",
+        "audioPath": "audios/karol-g-peso-pluma-qlona.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "33",
+        "title": "AMARGURA",
+        "subtitle": "Karol G",
+        "audioPath": "audios/karol-g-amargura.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "34",
+        "title": "TQG",
+        "subtitle": "Karol G, Shakira",
+        "audioPath": "audios/karol-g-shakira-tqg.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "35",
+        "title": "OKI DOKI",
+        "subtitle": "Karol G",
+        "audioPath": "audios/karol-g-oki-doki.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "36",
+        "title": "SI ANTES TE HUBIERA CONOCIDO",
+        "subtitle": "Karol G",
+        "audioPath": "audios/karol-g-si-antes-te-hubiera-conocido.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "37",
+        "title": "CONTIGO",
+        "subtitle": "Karol G, Tiësto",
+        "audioPath": "audios/karol-g-tiesto-contigo.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "38",
+        "title": "MIENTRAS ME CURO DEL CORA",
+        "subtitle": "Karol G",
+        "audioPath": "audios/karol-g-mientras-me-curo-del-cora.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "39",
+        "title": "CAIRO",
+        "subtitle": "Karol G, Ovy On The Drums",
+        "audioPath": "audios/karol-g-ovy-on-the-drums-cairo.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "40",
+        "title": "X SI VOLVEMOS",
+        "subtitle": "Karol G, Romeo Santos",
+        "audioPath": "audios/karol-g-romeo-santos-x-si-volvemos.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "41",
+        "title": "S91",
+        "subtitle": "Karol G",
+        "audioPath": "audios/karol-g-s91.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "42",
+        "title": "MAÑANA SERÁ BONITO",
+        "subtitle": "Karol G",
+        "audioPath": "audios/karol-g-manana-sera-bonito.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "43",
+        "title": "BICHOTAG",
+        "subtitle": "Karol G",
+        "audioPath": "audios/karol-g-bichotag.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "44",
+        "title": "OJOS FERRARI",
+        "subtitle": "Karol G, Justin Quiles, Angel Dior",
+        "audioPath": "audios/karol-g-justin-quiles-angel-dior-ojos-ferrari.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "45",
+        "title": "BESTIES",
+        "subtitle": "Karol G",
+        "audioPath": "audios/karol-g-besties.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "46",
+        "title": "GUCCI LOS PAÑOS",
+        "subtitle": "Karol G",
+        "audioPath": "audios/karol-g-gucci-los-panos.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "47",
+        "title": "TUS GAFITAS",
+        "subtitle": "Karol G",
+        "audioPath": "audios/karol-g-tus-gafitas.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "48",
+        "title": "MERCURIO",
+        "subtitle": "Karol G",
+        "audioPath": "audios/karol-g-mercurio.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "49",
+        "title": "PERO TÚ",
+        "subtitle": "Karol G, Quevedo",
+        "audioPath": "audios/karol-g-quevedo-pero-tu.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "50",
+        "title": "KÁRMIKA",
+        "subtitle": "Karol G, Bad Gyal, Sean Paul",
+        "audioPath": "audios/karol-g-bad-gyal-sean-paul-karmika.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "51",
+        "title": "DAÑAMOS LA AMISTAD",
+        "subtitle": "Karol G, Sech",
+        "audioPath": "audios/karol-g-sech-danamos-la-amistad.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "52",
+        "title": "SEJODIOTO",
+        "subtitle": "Karol G",
+        "audioPath": "audios/karol-g-sejodioto.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "53",
+        "title": "LOCATION",
+        "subtitle": "Karol G, Anuel AA, J Balvin",
+        "audioPath": "audios/karol-g-anuel-aa-j-balvin-location.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "54",
+        "title": "GATO MALO",
+        "subtitle": "Karol G, Nathy Peluso",
+        "audioPath": "audios/karol-g-nathy-peluso-gato-malo.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "55",
+        "title": "LEYENDAS",
+        "subtitle": "Karol G, Wisin & Yandel, Nicky Jam",
+        "audioPath": "audios/karol-g-wisin-yandel-nicky-jam-leyendas.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "56",
+        "title": "AHORA ME LLAMA",
+        "subtitle": "Karol G, Bad Bunny",
+        "audioPath": "audios/karol-g-bad-bunny-ahora-me-llama.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "57",
+        "title": "SECRETO",
+        "subtitle": "Anuel AA, Karol G",
+        "audioPath": "audios/anuel-aa-karol-g-secreto.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "58",
+        "title": "HELLO",
+        "subtitle": "Karol G, Ozuna",
+        "audioPath": "audios/karol-g-ozuna-hello.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "59",
+        "title": "MUÑECO DE LEGO",
+        "subtitle": "Karol G",
+        "audioPath": "audios/karol-g-muneco-de-lego.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "60",
+        "title": "CASI NADA",
+        "subtitle": "Karol G",
+        "audioPath": "audios/karol-g-casi-nada.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "61",
+        "title": "FRIKI",
+        "subtitle": "Feid, Karol G",
+        "audioPath": "audios/feid-karol-g-friki.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "62",
+        "title": "UN VIAJE",
+        "subtitle": "Jotaerre, Karol G, Alejo",
+        "audioPath": "audios/jotaerre-karol-g-alejo-un-viaje.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "63",
+        "title": "CAROLINA",
+        "subtitle": "Karol G",
+        "audioPath": "audios/karol-g-carolina.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "64",
+        "title": "ME TENGO QUE IR",
+        "subtitle": "Karol G, Kali Uchis",
+        "audioPath": "audios/karol-g-kali-uchis-me-tengo-que-ir.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "65",
+        "title": "NO TE DESEO EL MAL",
+        "subtitle": "Eladio Carrión, Karol G",
+        "audioPath": "audios/eladio-carrion-karol-g-no-te-deseo-el-mal.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "66",
+        "title": "DVD",
+        "subtitle": "Karol G",
+        "audioPath": "audios/karol-g-dvd.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "67",
+        "title": "LA VIDA ES UNA",
+        "subtitle": "Karol G",
+        "audioPath": "audios/karol-g-la-vida-es-una.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "68",
+        "title": "ARRANCA PAL CARAJO",
+        "subtitle": "Karol G, Juanka, Brray",
+        "audioPath": "audios/karol-g-juanka-brray-arranca-pal-carajo.mp3",
+        "posterPath": ""
     }
 ]
