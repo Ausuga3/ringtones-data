@@ -271,5 +271,278 @@
         "subtitle": "Ñejo & Dalmata",
         "audioPath": "audios/nejo-dalmata-pasarela.mp3",
         "posterPath": ""
+    },
+    {
+        "id": "40",
+        "title": "Luna",
+        "subtitle": "Feid",
+        "audioPath": "audios/feid-luna.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "41",
+        "title": "Classy 101",
+        "subtitle": "Feid",
+        "audioPath": "audios/feid-classy-101.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "42",
+        "title": "Efecto",
+        "subtitle": "Bad Bunny",
+        "audioPath": "audios/bad-bunny-efecto.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "43",
+        "title": "PROVENZA",
+        "subtitle": "Karol G",
+        "audioPath": "audios/karol-g-provenza.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "44",
+        "title": "Todo De Ti",
+        "subtitle": "Rauw Alejandro",
+        "audioPath": "audios/rauw-alejandro-todo-de-ti.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "45",
+        "title": "Tití Me Preguntó",
+        "subtitle": "Bad Bunny",
+        "audioPath": "audios/bad-bunny-titi-me-pregunto.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "46",
+        "title": "TQG",
+        "subtitle": "Karol G",
+        "audioPath": "audios/karol-g-tqg.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "47",
+        "title": "DILUVIO",
+        "subtitle": "Rauw Alejandro",
+        "audioPath": "audios/rauw-alejandro-diluvio.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "48",
+        "title": "LALA",
+        "subtitle": "Myke Towers",
+        "audioPath": "audios/myke-towers-lala.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "49",
+        "title": "La Falda",
+        "subtitle": "Myke Towers",
+        "audioPath": "audios/myke-towers-la-falda.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "50",
+        "title": "In Da Getto",
+        "subtitle": "J Balvin",
+        "audioPath": "audios/j-balvin-in-da-getto.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "51",
+        "title": "Bzrp Music Sessions, Vol. 52",
+        "subtitle": "Quevedo",
+        "audioPath": "audios/quevedo-bzrp-music-sessions-vol.-52.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "52",
+        "title": "La Inocente",
+        "subtitle": "Mora",
+        "audioPath": "audios/mora-la-inocente.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "53",
+        "title": "Yandel 150",
+        "subtitle": "Yandel",
+        "audioPath": "audios/yandel-yandel-150.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "54",
+        "title": "Mi Gente",
+        "subtitle": "J Balvin",
+        "audioPath": "audios/j-balvin-mi-gente.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "55",
+        "title": "Noche de Entierro",
+        "subtitle": "Luny Tunes",
+        "audioPath": "audios/luny-tunes-noche-de-entierro.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "56",
+        "title": "Ay Vamos",
+        "subtitle": "J Balvin",
+        "audioPath": "audios/j-balvin-ay-vamos.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "57",
+        "title": "Una Noche en Medellín",
+        "subtitle": "Cris Mj",
+        "audioPath": "audios/cris-mj-una-noche-en-medellin.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "58",
+        "title": "El Perdón",
+        "subtitle": "Nicky Jam",
+        "audioPath": "audios/nicky-jam-el-perdon.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "59",
+        "title": "Felices los 4",
+        "subtitle": "Maluma",
+        "audioPath": "audios/maluma-felices-los-4.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "60",
+        "title": "Hawái",
+        "subtitle": "Maluma",
+        "audioPath": "audios/maluma-hawai.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "61",
+        "title": "Hasta el Amanecer",
+        "subtitle": "Nicky Jam",
+        "audioPath": "audios/nicky-jam-hasta-el-amanecer.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "62",
+        "title": "Se Preparó",
+        "subtitle": "Ozuna",
+        "audioPath": "audios/ozuna-se-preparo.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "63",
+        "title": "Dile Que Tu Me Quieres",
+        "subtitle": "Ozuna",
+        "audioPath": "audios/ozuna-dile-que-tu-me-quieres.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "64",
+        "title": "Chillax",
+        "subtitle": "Farruko",
+        "audioPath": "audios/farruko-chillax.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "65",
+        "title": "Criminal",
+        "subtitle": "Natti Natasha",
+        "audioPath": "audios/natti-natasha-criminal.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "66",
+        "title": "Mayores",
+        "subtitle": "Becky G",
+        "audioPath": "audios/becky-g-mayores.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "67",
+        "title": "Otro Trago",
+        "subtitle": "Sech",
+        "audioPath": "audios/sech-otro-trago.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "68",
+        "title": "Pose",
+        "subtitle": "Daddy Yankee",
+        "audioPath": "audios/daddy-yankee-pose.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "69",
+        "title": "Danza Kuduro",
+        "subtitle": "Don Omar",
+        "audioPath": "audios/don-omar-danza-kuduro.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "70",
+        "title": "Es Un Secreto",
+        "subtitle": "Plan B",
+        "audioPath": "audios/plan-b-es-un-secreto.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "71",
+        "title": "Pierdo La Cabeza",
+        "subtitle": "Zion & Lennox",
+        "audioPath": "audios/zion-lennox-pierdo-la-cabeza.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "72",
+        "title": "Me Estás Tentando",
+        "subtitle": "Wisin & Yandel",
+        "audioPath": "audios/wisin-yandel-me-estas-tentando.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "73",
+        "title": "Por Amar a Ciegas",
+        "subtitle": "Arcángel",
+        "audioPath": "audios/arcangel-por-amar-a-ciegas.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "74",
+        "title": "Reggaeton Champagne",
+        "subtitle": "Dani Flow",
+        "audioPath": "audios/dani-flow-reggaeton-champagne.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "75",
+        "title": "Mujeriego",
+        "subtitle": "Ryan Castro",
+        "audioPath": "audios/ryan-castro-mujeriego.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "76",
+        "title": "Gatita",
+        "subtitle": "Bellakath",
+        "audioPath": "audios/bellakath-gatita.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "77",
+        "title": "Medallo",
+        "subtitle": "Blessd",
+        "audioPath": "audios/blessd-medallo.mp3",
+        "posterPath": ""
+    },
+    {
+        "id": "78",
+        "title": "AM",
+        "subtitle": "Nio Garcia",
+        "audioPath": "audios/nio-garcia-am.mp3",
+        "posterPath": ""
     }
 ]
